@@ -1,0 +1,4997 @@
+[
+    {
+        "age": "46",
+        "county": "Hopkins",
+        "date": "9/27/2018",
+        "firstname": "Daniel",
+        "lastname": "Acker",
+        "number": "999381",
+        "race": "White"
+    },
+    {
+        "age": "51",
+        "county": "Smith",
+        "date": "9/26/2018",
+        "firstname": "Troy",
+        "lastname": "Clark",
+        "number": "999351",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Bexar",
+        "date": "7/17/2018",
+        "firstname": "Christopher",
+        "lastname": "Young",
+        "number": "999508",
+        "race": "Black"
+    },
+    {
+        "age": "66",
+        "county": "Harris",
+        "date": "6/27/2018",
+        "firstname": "Danny",
+        "lastname": "Bible",
+        "number": "999455",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Bexar",
+        "date": "5/16/2018",
+        "firstname": "Juan",
+        "lastname": "Castillo",
+        "number": "999502",
+        "race": "Hispanic"
+    },
+    {
+        "age": "31",
+        "county": "Tarrant",
+        "date": "4/25/2018",
+        "firstname": "Erick",
+        "lastname": "Davila",
+        "number": "999545",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Lubbock",
+        "date": "3/27/2018",
+        "firstname": "Rosendo",
+        "lastname": "Rodriguez, III",
+        "number": "999534",
+        "race": "Histpanic"
+    },
+    {
+        "age": "62",
+        "county": "Dallas",
+        "date": "2/1/2018",
+        "firstname": "John",
+        "lastname": "Battaglia",
+        "number": "999412",
+        "race": "White"
+    },
+    {
+        "age": "64",
+        "county": "Dallas",
+        "date": "1/30/2018",
+        "firstname": "William",
+        "lastname": "Rayford",
+        "number": "999371",
+        "race": "Black"
+    },
+    {
+        "age": "55",
+        "county": "Harris",
+        "date": "1/18/2018",
+        "firstname": "Anthony",
+        "lastname": "Shore",
+        "number": "999488",
+        "race": "White"
+    },
+    {
+        "age": "47",
+        "county": "Hidalgo",
+        "date": "11/08/2017",
+        "firstname": "Ruben",
+        "lastname": "Cardenas",
+        "number": "999275",
+        "race": "Hispanic"
+    },
+    {
+        "age": "38",
+        "county": "Bee",
+        "date": "10/12/2017",
+        "firstname": "Robert",
+        "lastname": "Pruett",
+        "number": "999411",
+        "race": "White"
+    },
+    {
+        "age": "46",
+        "county": "Bexar",
+        "date": "7/27/2017",
+        "firstname": "Taichin",
+        "lastname": "Preyor",
+        "number": "999494",
+        "race": "Black"
+    },
+    {
+        "age": "61",
+        "county": "Tarrant",
+        "date": "3/14/2017",
+        "firstname": "James",
+        "lastname": "Bigby",
+        "number": "997",
+        "race": "White"
+    },
+    {
+        "age": "44",
+        "county": "Bexar",
+        "date": "3/07/2017",
+        "firstname": "Rolando",
+        "lastname": "Ruiz",
+        "number": "999145",
+        "race": "Hispanic"
+    },
+    {
+        "age": "43",
+        "county": "Dallas",
+        "date": "1/26/2017",
+        "firstname": "Terry",
+        "lastname": "Edwards",
+        "number": "999463",
+        "race": "Black"
+    },
+    {
+        "age": "48",
+        "county": "Tarrant",
+        "date": "01/11/2017",
+        "firstname": "Christopher",
+        "lastname": "Wilkins",
+        "number": "999533",
+        "race": "White"
+    },
+    {
+        "age": "58",
+        "county": "Houston",
+        "date": "10/05/2016",
+        "firstname": "Barney",
+        "lastname": "Fuller",
+        "number": "999481",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Hidalgo",
+        "date": "04/06/2016",
+        "firstname": "Pablo",
+        "lastname": "Vasquez",
+        "number": "999297",
+        "race": "Hispanic"
+    },
+    {
+        "age": "33",
+        "county": "Hunt",
+        "date": "03/22/2016",
+        "firstname": "Adam",
+        "lastname": "Ward",
+        "number": "999525",
+        "race": "White"
+    },
+    {
+        "age": "58",
+        "county": "Harris",
+        "date": "03/09/2016",
+        "firstname": "Coy",
+        "lastname": "Wesbrook",
+        "number": "999281",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Collin",
+        "date": "02/16/2016",
+        "firstname": "Gustavo",
+        "lastname": "Garcia",
+        "number": "999018",
+        "race": "Hispanic"
+    },
+    {
+        "age": "35",
+        "county": "Wharton",
+        "date": "01/27/2016",
+        "firstname": "James",
+        "lastname": "Freeman",
+        "number": "999539",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Harris",
+        "date": "01/20/2016",
+        "firstname": "Richard",
+        "lastname": "Masterson",
+        "number": "999414",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Madison",
+        "date": "11/18/2015",
+        "firstname": "Raphael",
+        "lastname": "Holiday",
+        "number": "999419",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Dallas",
+        "date": "10/14/2015",
+        "firstname": "Licho",
+        "lastname": "Escamilla",
+        "number": "999432",
+        "race": "Hispanic"
+    },
+    {
+        "age": "35",
+        "county": "Harris",
+        "date": "10/6/2015",
+        "firstname": "Juan",
+        "lastname": "Garcia",
+        "number": "999360",
+        "race": "Hispanic"
+    },
+    {
+        "age": "27",
+        "county": "Nueces",
+        "date": "08/12/2015",
+        "firstname": "Daniel",
+        "lastname": "Lopez",
+        "number": "999555",
+        "race": "Hispanic"
+    },
+    {
+        "age": "46",
+        "county": "Smith",
+        "date": "06/18/2015",
+        "firstname": "Gregory",
+        "lastname": "Russeau",
+        "number": "999430",
+        "race": "Black"
+    },
+    {
+        "age": "67",
+        "county": "Grayson",
+        "date": "06/03/2015",
+        "firstname": "Lester",
+        "lastname": "Bower",
+        "number": "764",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Harris",
+        "date": "05/12/2015",
+        "firstname": "Derrick",
+        "lastname": "Charles",
+        "number": "999451",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Bexar",
+        "date": "04/15/2015",
+        "firstname": "Manuel",
+        "lastname": "Garza",
+        "number": "999434",
+        "race": "Hispanic"
+    },
+    {
+        "age": "42",
+        "county": "Ellis",
+        "date": "04/09/2015",
+        "firstname": "Kent",
+        "lastname": "Sprouse",
+        "number": "999471",
+        "race": "White"
+    },
+    {
+        "age": "46",
+        "county": "Bexar",
+        "date": "03/12/2015",
+        "firstname": "Manuel",
+        "lastname": "Vasquez",
+        "number": "999336",
+        "race": "Hispanic"
+    },
+    {
+        "age": "53",
+        "county": "Dallas",
+        "date": "02/04/2015",
+        "firstname": "Donald",
+        "lastname": "Newbury",
+        "number": "999403",
+        "race": "White"
+    },
+    {
+        "age": "57",
+        "county": "Smith",
+        "date": "01/29/2015",
+        "firstname": "Robert",
+        "lastname": "Ladd",
+        "number": "999237",
+        "race": "Black"
+    },
+    {
+        "age": "42",
+        "county": "Bexar",
+        "date": "01/21/2015",
+        "firstname": "Arnold",
+        "lastname": "Prieto",
+        "number": "999149",
+        "race": "Hispanic"
+    },
+    {
+        "age": "32",
+        "county": "Bexar",
+        "date": "10/28/2014",
+        "firstname": "Miguel",
+        "lastname": "Paredes",
+        "number": "999400",
+        "race": "Hispanic"
+    },
+    {
+        "age": "38",
+        "county": "Tarrant",
+        "date": "09/17/2014",
+        "firstname": "Lisa",
+        "lastname": "Coleman",
+        "number": "999511",
+        "race": "Black"
+    },
+    {
+        "age": "45",
+        "county": "Harris",
+        "date": "09/10/2014",
+        "firstname": "Willie",
+        "lastname": "Trottie",
+        "number": "999085",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Nueces",
+        "date": "04/16/2014",
+        "firstname": "Jose",
+        "lastname": "Villegas",
+        "number": "999417",
+        "race": "Hispanic"
+    },
+    {
+        "age": "44",
+        "county": "Kerr",
+        "date": "04/09/2014",
+        "firstname": "Ramiro",
+        "lastname": "Hernandez",
+        "number": "999342",
+        "race": "Hispanic"
+    },
+    {
+        "age": "49",
+        "county": "Val Verde",
+        "date": "04/03/2014",
+        "firstname": "Tommy",
+        "lastname": "Sells",
+        "number": "999367",
+        "race": "White"
+    },
+    {
+        "age": "29",
+        "county": "Dallas",
+        "date": "03/27/2014",
+        "firstname": "Anthony",
+        "lastname": "Doyle",
+        "number": "999478",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Bexar",
+        "date": "03/19/2014",
+        "firstname": "Ray",
+        "lastname": "Jasper",
+        "number": "999341",
+        "race": "Black"
+    },
+    {
+        "age": "59",
+        "county": "Harris",
+        "date": "02/05/2014",
+        "firstname": "Suzanne",
+        "lastname": "Basso",
+        "number": "999329",
+        "race": "White"
+    },
+    {
+        "age": "46",
+        "county": "Harris",
+        "date": "01/22/2014",
+        "firstname": "Edgar",
+        "lastname": "Tamayo",
+        "number": "999130",
+        "race": "Hispanic"
+    },
+    {
+        "age": "43",
+        "county": "Leon",
+        "date": "12/03/2013",
+        "firstname": "Jerry",
+        "lastname": "Martin",
+        "number": "999552",
+        "race": "White"
+    },
+    {
+        "age": "49",
+        "county": "Harris",
+        "date": "11/12/2013",
+        "firstname": "Jamie",
+        "lastname": "McCoskey",
+        "number": "999053",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Lubbock",
+        "date": "10/09/2013",
+        "firstname": "Michael",
+        "lastname": "Yowell",
+        "number": "999334",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Hidalgo",
+        "date": "09/26/2013",
+        "firstname": "Arturo",
+        "lastname": "Diaz",
+        "number": "999345",
+        "race": "Hispanic"
+    },
+    {
+        "age": "30",
+        "county": "Hidalgo",
+        "date": "09/19/2013",
+        "firstname": "Robert",
+        "lastname": "Garza",
+        "number": "999466",
+        "race": "Hispanic"
+    },
+    {
+        "age": "55",
+        "county": "Dallas",
+        "date": "07/31/2013",
+        "firstname": "Douglas",
+        "lastname": "Feldman",
+        "number": "999326",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Lubbock",
+        "date": "07/18/2013",
+        "firstname": "Vaughn",
+        "lastname": "Ross",
+        "number": "999429",
+        "race": "Black"
+    },
+    {
+        "age": "36",
+        "county": "Victoria",
+        "date": "07/16/2013",
+        "firstname": "John",
+        "lastname": "Quintanilla",
+        "number": "999491",
+        "race": "Hispanic"
+    },
+    {
+        "age": "52",
+        "county": "Dallas",
+        "date": "06/26/2013",
+        "firstname": "Kimberly",
+        "lastname": "McCarthy",
+        "number": "999287",
+        "race": "Black"
+    },
+    {
+        "age": "43",
+        "county": "Jefferson",
+        "date": "06/12/2013",
+        "firstname": "Elroy",
+        "lastname": "Chester",
+        "number": "999280",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Harris",
+        "date": "05/15/2013",
+        "firstname": "Jeffrey",
+        "lastname": "Williams",
+        "number": "999350",
+        "race": "Black"
+    },
+    {
+        "age": "35",
+        "county": "McLennan",
+        "date": "05/07/2013",
+        "firstname": "Carroll",
+        "lastname": "Parr",
+        "number": "999479",
+        "race": "Black"
+    },
+    {
+        "age": "29",
+        "county": "Cherokee",
+        "date": "04/25/2013",
+        "firstname": "Richard",
+        "lastname": "Cobb",
+        "number": "999467",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Navarro",
+        "date": "04/16/2013",
+        "firstname": "Ronnie",
+        "lastname": "Threadgill",
+        "number": "999424",
+        "race": "Black"
+    },
+    {
+        "age": "50",
+        "county": "Smith",
+        "date": "04/09/2013",
+        "firstname": "Rickey",
+        "lastname": "Lewis",
+        "number": "999097",
+        "race": "Black"
+    },
+    {
+        "age": "48",
+        "county": "Brazos",
+        "date": "02/21/2013",
+        "firstname": "Carl",
+        "lastname": "Blue",
+        "number": "999151",
+        "race": "Black"
+    },
+    {
+        "age": "46",
+        "county": "Harris",
+        "date": "11/15/2012",
+        "firstname": "Preston",
+        "lastname": "Hughes",
+        "number": "939",
+        "race": "Black"
+    },
+    {
+        "age": "41",
+        "county": "Bexar",
+        "date": "11/14/2012",
+        "firstname": "Ramon",
+        "lastname": "Hernandez",
+        "number": "999431",
+        "race": "Hispanic"
+    },
+    {
+        "age": "33",
+        "county": "Gregg",
+        "date": "11/08/2012",
+        "firstname": "Mario",
+        "lastname": "Swain",
+        "number": "999475",
+        "race": "Black"
+    },
+    {
+        "age": "41",
+        "county": "Polk",
+        "date": "10/31/2012",
+        "firstname": "Donnie",
+        "lastname": "Roberts, Jr.",
+        "number": "999487",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Dallas",
+        "date": "10/24/2012",
+        "firstname": "Bobby",
+        "lastname": "Hines",
+        "number": "999025",
+        "race": "White"
+    },
+    {
+        "age": "44",
+        "county": "Montgomery",
+        "date": "10/10/2012",
+        "firstname": "Jonathan",
+        "lastname": "Green",
+        "number": "999421",
+        "race": "Black"
+    },
+    {
+        "age": "48",
+        "county": "Tarrant",
+        "date": "09/25/2012",
+        "firstname": "Cleve",
+        "lastname": "Foster",
+        "number": "999470",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Dallas",
+        "date": "09/20/2012",
+        "firstname": "Robert",
+        "lastname": "Harris",
+        "number": "999364",
+        "race": "Black"
+    },
+    {
+        "age": "54",
+        "county": "Jefferson",
+        "date": "08/07/2012",
+        "firstname": "Marvin",
+        "lastname": "Wilson",
+        "number": "999098",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Dallas",
+        "date": "07/18/2012",
+        "firstname": "Yokamon",
+        "lastname": "Hearn",
+        "number": "999292",
+        "race": "Black"
+    },
+    {
+        "age": "29",
+        "county": "Cherokee",
+        "date": "04/26/2012",
+        "firstname": "Beunka",
+        "lastname": "Adams",
+        "number": "999486",
+        "race": "Black"
+    },
+    {
+        "age": "47",
+        "county": "Dallas",
+        "date": "03/28/2012",
+        "firstname": "Jesse",
+        "lastname": "Hernandez",
+        "number": "999425",
+        "race": "Hispanic"
+    },
+    {
+        "age": "52",
+        "county": "Montgomery",
+        "date": "03/07/2012",
+        "firstname": "Keith",
+        "lastname": "Thurmond",
+        "number": "999435",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Dallas",
+        "date": "02/29/2012",
+        "firstname": "George",
+        "lastname": "Rivas",
+        "number": "999394",
+        "race": "Hispanic"
+    },
+    {
+        "age": "38",
+        "county": "Bexar",
+        "date": "01/26/2012",
+        "firstname": "Rodrigo",
+        "lastname": "Hernandez",
+        "number": "999474",
+        "race": "Hispanic"
+    },
+    {
+        "age": "46",
+        "county": "Bexar",
+        "date": "11/16/2011",
+        "firstname": "Guadalupe",
+        "lastname": "Esparza",
+        "number": "999385",
+        "race": "Hispanic"
+    },
+    {
+        "age": "39",
+        "county": "Bexar",
+        "date": "10/27/2011",
+        "firstname": "Frank",
+        "lastname": "Garcia",
+        "number": "999418",
+        "race": "Hispanic"
+    },
+    {
+        "age": "44",
+        "county": "Brazos",
+        "date": "09/21/2011",
+        "firstname": "Lawrence",
+        "lastname": "Brewer",
+        "number": "999327",
+        "race": "White"
+    },
+    {
+        "age": "31",
+        "county": "Denton",
+        "date": "09/13/2011",
+        "firstname": "Steven",
+        "lastname": "Woods",
+        "number": "999427",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Nueces",
+        "date": "08/10/2011",
+        "firstname": "Martin",
+        "lastname": "Robles",
+        "number": "999457",
+        "race": "Hispanic"
+    },
+    {
+        "age": "42",
+        "county": "Dallas",
+        "date": "07/20/2011",
+        "firstname": "Mark",
+        "lastname": "Stroman",
+        "number": "999409",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Bexar",
+        "date": "07/07/2011",
+        "firstname": "Humberto",
+        "lastname": "Leal",
+        "number": "999162",
+        "race": "Hispanic"
+    },
+    {
+        "age": "32",
+        "county": "Fort Bend",
+        "date": "06/21/2011",
+        "firstname": "Milton",
+        "lastname": "Mathis",
+        "number": "999337",
+        "race": "Black"
+    },
+    {
+        "age": "32",
+        "county": "Bowie",
+        "date": "06/16/2011",
+        "firstname": "Lee",
+        "lastname": "Taylor",
+        "number": "999344",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Dallas",
+        "date": "06/01/2011",
+        "firstname": "Gayland",
+        "lastname": "Bradford",
+        "number": "966",
+        "race": "Black"
+    },
+    {
+        "age": "46",
+        "county": "Tarrant",
+        "date": "05/03/2011",
+        "firstname": "Cary",
+        "lastname": "Kerr",
+        "number": "999449",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Harris",
+        "date": "02/22/2011",
+        "firstname": "Timothy",
+        "lastname": "Adams",
+        "number": "999448",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Tarrant",
+        "date": "02/15/2011",
+        "firstname": "Michael",
+        "lastname": "Hall",
+        "number": "999346",
+        "race": "White"
+    },
+    {
+        "age": "51",
+        "county": "Lamar",
+        "date": "10/21/2010",
+        "firstname": "Larry",
+        "lastname": "Wooten",
+        "number": "999269",
+        "race": "Black"
+    },
+    {
+        "age": "35",
+        "county": "Harris",
+        "date": "08/17/2010",
+        "firstname": "Peter",
+        "lastname": "Cantu",
+        "number": "999093",
+        "race": "Hispanic"
+    },
+    {
+        "age": "42",
+        "county": "Harris",
+        "date": "07/20/2010",
+        "firstname": "Derrick",
+        "lastname": "Jackson",
+        "number": "999263",
+        "race": "Black"
+    },
+    {
+        "age": "28",
+        "county": "Montgomery",
+        "date": "07/01/2010",
+        "firstname": "Michael",
+        "lastname": "Perry",
+        "number": "999444",
+        "race": "White"
+    },
+    {
+        "age": "59",
+        "county": "Travis",
+        "date": "06/15/2010",
+        "firstname": "David",
+        "lastname": "Powell",
+        "number": "612",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Dallas",
+        "date": "06/02/2010",
+        "firstname": "George",
+        "lastname": "Jones",
+        "number": "999147",
+        "race": "Black"
+    },
+    {
+        "age": "54",
+        "county": "Collin",
+        "date": "05/25/2010",
+        "firstname": "John",
+        "lastname": "Alba",
+        "number": "999027",
+        "race": "Hispanic"
+    },
+    {
+        "age": "37",
+        "county": "Bee",
+        "date": "05/19/2010",
+        "firstname": "Rogelio",
+        "lastname": "Cannady",
+        "number": "999245",
+        "race": "Hispanic"
+    },
+    {
+        "age": "41",
+        "county": "Hunt",
+        "date": "05/13/2010",
+        "firstname": "Billy",
+        "lastname": "Galloway",
+        "number": "999349",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Hunt",
+        "date": "05/12/2010",
+        "firstname": "Kevin",
+        "lastname": "Varga",
+        "number": "999368",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Fort Bend",
+        "date": "04/27/2010",
+        "firstname": "Samuel",
+        "lastname": "Bustamante",
+        "number": "999380",
+        "race": "Hispanic"
+    },
+    {
+        "age": "31",
+        "county": "El Paso",
+        "date": "04/22/2010",
+        "firstname": "William",
+        "lastname": "Berkley",
+        "number": "999422",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "03/30/2010",
+        "firstname": "Franklin",
+        "lastname": "Alix",
+        "number": "999286",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Bexar",
+        "date": "03/11/2010",
+        "firstname": "Joshua",
+        "lastname": "Maxwell",
+        "number": "999408",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Collin",
+        "date": "03/02/2010",
+        "firstname": "Michael",
+        "lastname": "Sigala",
+        "number": "999397",
+        "race": "Hispanic"
+    },
+    {
+        "age": "59",
+        "county": "Walker",
+        "date": "01/12/2010",
+        "firstname": "Gary",
+        "lastname": "Johnson",
+        "number": "911",
+        "race": "White"
+    },
+    {
+        "age": "51",
+        "county": "Dallas",
+        "date": "01/07/2010",
+        "firstname": "Kenneth",
+        "lastname": "Mosley",
+        "number": "999243",
+        "race": "Black"
+    },
+    {
+        "age": "44",
+        "county": "Llano",
+        "date": "12/03/2009",
+        "firstname": "Bobby",
+        "lastname": "Woods",
+        "number": "999270",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "11/19/2009",
+        "firstname": "Robert",
+        "lastname": "Thompson",
+        "number": "999276",
+        "race": "Black"
+    },
+    {
+        "age": "30",
+        "county": "Anderson",
+        "date": "11/18/2009",
+        "firstname": "Danielle",
+        "lastname": "Simpson",
+        "number": "999370",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "11/10/2009",
+        "firstname": "Yosvanis",
+        "lastname": "Valle",
+        "number": "999384",
+        "race": "Hispanic"
+    },
+    {
+        "age": "32",
+        "county": "Nacogdoches",
+        "date": "11/05/2009",
+        "firstname": "Khristian",
+        "lastname": "Oliver",
+        "number": "999301",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Bexar",
+        "date": "10/27/2009",
+        "firstname": "Reginald",
+        "lastname": "Blanton",
+        "number": "999395",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Harris",
+        "date": "09/22/2009",
+        "firstname": "Christopher",
+        "lastname": "Coleman",
+        "number": "999239",
+        "race": "Black"
+    },
+    {
+        "age": "52",
+        "county": "Harris",
+        "date": "09/16/2009",
+        "firstname": "Stephen",
+        "lastname": "Moody",
+        "number": "999076",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Tarrant",
+        "date": "06/02/2009",
+        "firstname": "Terry",
+        "lastname": "Hankins",
+        "number": "999415",
+        "race": "White"
+    },
+    {
+        "age": "51",
+        "county": "Wood",
+        "date": "05/19/2009",
+        "firstname": "Michael",
+        "lastname": "Riley",
+        "number": "851",
+        "race": "Black"
+    },
+    {
+        "age": "28",
+        "county": "Dallas",
+        "date": "04/30/2009",
+        "firstname": "Derrick",
+        "lastname": "Johnson",
+        "number": "999339",
+        "race": "Black"
+    },
+    {
+        "age": "35",
+        "county": "Lubbock",
+        "date": "04/15/2009",
+        "firstname": "Michael",
+        "lastname": "Rosales",
+        "number": "999274",
+        "race": "Hispanic"
+    },
+    {
+        "age": "38",
+        "county": "Bexar",
+        "date": "03/11/2009",
+        "firstname": "Luis",
+        "lastname": "Salazar",
+        "number": "999285",
+        "race": "Hispanic"
+    },
+    {
+        "age": "34",
+        "county": "Tarrant",
+        "date": "03/10/2009",
+        "firstname": "James",
+        "lastname": "Martinez",
+        "number": "999404",
+        "race": "Hispanic"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "03/04/2009",
+        "firstname": "Kenneth",
+        "lastname": "Morris",
+        "number": "999117",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Red River",
+        "date": "03/03/2009",
+        "firstname": "Willie",
+        "lastname": "Pondexter",
+        "number": "999111",
+        "race": "Black"
+    },
+    {
+        "age": "51",
+        "county": "Harris",
+        "date": "02/12/2009",
+        "firstname": "Johnny",
+        "lastname": "Johnson",
+        "number": "999197",
+        "race": "Black"
+    },
+    {
+        "age": "35",
+        "county": "Tarrant",
+        "date": "02/10/2009",
+        "firstname": "Dale",
+        "lastname": "Scheanette",
+        "number": "999440",
+        "race": "Black"
+    },
+    {
+        "age": "36",
+        "county": "Bexar",
+        "date": "02/04/2009",
+        "firstname": "David",
+        "lastname": "Martinez",
+        "number": "999173",
+        "race": "Hispanic"
+    },
+    {
+        "age": "46",
+        "county": "El Paso",
+        "date": "01/29/2009",
+        "firstname": "Ricardo",
+        "lastname": "Ortiz",
+        "number": "999320",
+        "race": "Hispanic"
+    },
+    {
+        "age": "41",
+        "county": "Brazoria",
+        "date": "01/28/2009",
+        "firstname": "Virgil",
+        "lastname": "Martinez",
+        "number": "999265",
+        "race": "Hispanic"
+    },
+    {
+        "age": "53",
+        "county": "Tarrant",
+        "date": "01/22/2009",
+        "firstname": "Reginald",
+        "lastname": "Perkins",
+        "number": "999407",
+        "race": "Black"
+    },
+    {
+        "age": "49",
+        "county": "Bexar",
+        "date": "01/21/2009",
+        "firstname": "Frank",
+        "lastname": "Moore",
+        "number": "999210",
+        "race": "Black"
+    },
+    {
+        "age": "40",
+        "county": "Tarrant",
+        "date": "01/14/2009",
+        "firstname": "Curtis",
+        "lastname": "Moore",
+        "number": "999212",
+        "race": "Black"
+    },
+    {
+        "age": "45",
+        "county": "Dallas",
+        "date": "11/20/2008",
+        "firstname": "Robert",
+        "lastname": "Hudson",
+        "number": "999353",
+        "race": "Black"
+    },
+    {
+        "age": "42",
+        "county": "Bell",
+        "date": "11/13/2008",
+        "firstname": "Denard",
+        "lastname": "Manns",
+        "number": "999405",
+        "race": "Black"
+    },
+    {
+        "age": "36",
+        "county": "Harris",
+        "date": "11/12/2008",
+        "firstname": "George",
+        "lastname": "Whitaker, III",
+        "number": "999196",
+        "race": "Black"
+    },
+    {
+        "age": "46",
+        "county": "Tarrant",
+        "date": "11/6/2008",
+        "firstname": "Elkie",
+        "lastname": "Taylor",
+        "number": "999112",
+        "race": "Black"
+    },
+    {
+        "age": "42",
+        "county": "Dallas",
+        "date": "10/30/2008",
+        "firstname": "Gregory",
+        "lastname": "Wright",
+        "number": "999253",
+        "race": "White"
+    },
+    {
+        "age": "45",
+        "county": "Harris",
+        "date": "10/28/2008",
+        "firstname": "Eric",
+        "lastname": "Nenno",
+        "number": "999188",
+        "race": "White"
+    },
+    {
+        "age": "29",
+        "county": "Hopkins",
+        "date": "10/21/2008",
+        "firstname": "Joseph",
+        "lastname": "Ries",
+        "number": "999335",
+        "race": "White"
+    },
+    {
+        "age": "27",
+        "county": "Bexar",
+        "date": "10/16/2008",
+        "firstname": "Kevin",
+        "lastname": "Watts",
+        "number": "999456",
+        "race": "Black"
+    },
+    {
+        "age": "57",
+        "county": "Gregg",
+        "date": "10/14/2008",
+        "firstname": "Alvin",
+        "lastname": "Kelly",
+        "number": "999012",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Kaufman",
+        "date": "09/17/2008",
+        "firstname": "William",
+        "lastname": "Murray",
+        "number": "999313",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Dallas",
+        "date": "08/14/2008",
+        "firstname": "Michael",
+        "lastname": "Rodriguez",
+        "number": "999413",
+        "race": "Hispanic"
+    },
+    {
+        "age": "32",
+        "county": "Dallas",
+        "date": "08/12/2008",
+        "firstname": "Leon",
+        "lastname": "Dorsey",
+        "number": "999359",
+        "race": "Black"
+    },
+    {
+        "age": "29",
+        "county": "Tarrant",
+        "date": "08/07/2008",
+        "firstname": "Heliberto",
+        "lastname": "Chi",
+        "number": "999437",
+        "race": "Hispanic"
+    },
+    {
+        "age": "33",
+        "county": "Harris",
+        "date": "08/05/2008",
+        "firstname": "Jose",
+        "lastname": "Medellin",
+        "number": "999134",
+        "race": "Hispanic"
+    },
+    {
+        "age": "40",
+        "county": "Potter",
+        "date": "07/31/2008",
+        "firstname": "Larry",
+        "lastname": "Davis",
+        "number": "999316",
+        "race": "Black"
+    },
+    {
+        "age": "40",
+        "county": "Harris",
+        "date": "07/23/2008",
+        "firstname": "Derrick",
+        "lastname": "Sonnier",
+        "number": "999054",
+        "race": "Black"
+    },
+    {
+        "age": "29",
+        "county": "Dallas",
+        "date": "07/10/2008",
+        "firstname": "Carlton",
+        "lastname": "Turner",
+        "number": "999321",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Dallas",
+        "date": "06/11/2008",
+        "firstname": "Karl",
+        "lastname": "Chamberlain",
+        "number": "999241",
+        "race": "White"
+    },
+    {
+        "age": "48",
+        "county": "Harris",
+        "date": "09/25/2007",
+        "firstname": "Michael",
+        "lastname": "Richard",
+        "number": "890",
+        "race": "Black"
+    },
+    {
+        "age": "32",
+        "county": "Bexar",
+        "date": "09/20/2007",
+        "firstname": "Clifford",
+        "lastname": "Kimmel",
+        "number": "999347",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Potter",
+        "date": "09/05/2007",
+        "firstname": "Tony",
+        "lastname": "Roach",
+        "number": "999323",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Bexar",
+        "date": "08/29/2007",
+        "firstname": "John",
+        "lastname": "Amador",
+        "number": "999160",
+        "race": "Hispanic"
+    },
+    {
+        "age": "32",
+        "county": "Gregg",
+        "date": "08/28/2007",
+        "firstname": "Daroyce",
+        "lastname": "Mosley",
+        "number": "999171",
+        "race": "Black"
+    },
+    {
+        "age": "32",
+        "county": "Harris",
+        "date": "08/22/2007",
+        "firstname": "Johnny",
+        "lastname": "Conner",
+        "number": "999324",
+        "race": "Black"
+    },
+    {
+        "age": "27",
+        "county": "Matagorda",
+        "date": "08/15/2007",
+        "firstname": "Kenneth",
+        "lastname": "Parr",
+        "number": "999312",
+        "race": "Black"
+    },
+    {
+        "age": "44",
+        "county": "Harris",
+        "date": "07/24/2007",
+        "firstname": "Lonnie",
+        "lastname": "Johnson",
+        "number": "999135",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Randall",
+        "date": "06/26/2007",
+        "firstname": "Patrick",
+        "lastname": "Knight",
+        "number": "999072",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Bailey",
+        "date": "06/21/2007",
+        "firstname": "Gilberto",
+        "lastname": "Reyes",
+        "number": "999352",
+        "race": "Hispanic"
+    },
+    {
+        "age": "36",
+        "county": "Harris",
+        "date": "06/20/2007",
+        "firstname": "Lionell",
+        "lastname": "Rodriguez",
+        "number": "999002",
+        "race": "Hispanic"
+    },
+    {
+        "age": "56",
+        "county": "Harris",
+        "date": "06/06/2007",
+        "firstname": "Michael",
+        "lastname": "Griffith",
+        "number": "999176",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Pecos",
+        "date": "05/16/2007",
+        "firstname": "Charles",
+        "lastname": "Smith",
+        "number": "953",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Potter",
+        "date": "04/26/2007",
+        "firstname": "Ryan",
+        "lastname": "Dickson",
+        "number": "999250",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Denton",
+        "date": "04/11/2007",
+        "firstname": "James",
+        "lastname": "Clark",
+        "number": "999095",
+        "race": "White"
+    },
+    {
+        "age": "51",
+        "county": "Harris",
+        "date": "03/29/2007",
+        "firstname": "Roy",
+        "lastname": "Pippin",
+        "number": "999170",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Bexar",
+        "date": "03/28/2007",
+        "firstname": "Vincent",
+        "lastname": "Gutierrez",
+        "number": "999262",
+        "race": "Hispanic"
+    },
+    {
+        "age": "42",
+        "county": "Dallas",
+        "date": "03/20/2007",
+        "firstname": "Charles",
+        "lastname": "Nealy",
+        "number": "999289",
+        "race": "Black"
+    },
+    {
+        "age": "45",
+        "county": "Harris",
+        "date": "03/07/2007",
+        "firstname": "Joseph",
+        "lastname": "Nichols",
+        "number": "709",
+        "race": "Black"
+    },
+    {
+        "age": "48",
+        "county": "Dallas",
+        "date": "03/06/2007",
+        "firstname": "Robert",
+        "lastname": "Perez",
+        "number": "999322",
+        "race": "Hispanic"
+    },
+    {
+        "age": "44",
+        "county": "Harris",
+        "date": "02/27/2007",
+        "firstname": "Donald",
+        "lastname": "Miller",
+        "number": "728",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Smith",
+        "date": "02/22/2007",
+        "firstname": "Newton",
+        "lastname": "Anderson",
+        "number": "999355",
+        "race": "White"
+    },
+    {
+        "age": "47",
+        "county": "Harris",
+        "date": "02/07/2007",
+        "firstname": "James",
+        "lastname": "Jackson",
+        "number": "999272",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Denton",
+        "date": "01/30/2007",
+        "firstname": "Christopher",
+        "lastname": "Swift",
+        "number": "999496",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Bexar",
+        "date": "01/17/2007",
+        "firstname": "Jonathan",
+        "lastname": "Moore",
+        "number": "999216",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Williamson",
+        "date": "01/10/2007",
+        "firstname": "Carlos",
+        "lastname": "Granados",
+        "number": "999307",
+        "race": "Hispanic"
+    },
+    {
+        "age": "30",
+        "county": "Harris",
+        "date": "11/08/2006",
+        "firstname": "Willie",
+        "lastname": "Shannon",
+        "number": "999086",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Harris",
+        "date": "11/01/2006",
+        "firstname": "Donell",
+        "lastname": "Jackson",
+        "number": "999206",
+        "race": "Black"
+    },
+    {
+        "age": "48",
+        "county": "Denton",
+        "date": "10/25/2006",
+        "firstname": "Gregory",
+        "lastname": "Summers",
+        "number": "999010",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Harris",
+        "date": "09/12/2006",
+        "firstname": "Farley",
+        "lastname": "Matchett",
+        "number": "999060",
+        "race": "Black"
+    },
+    {
+        "age": "29",
+        "county": "Refugio",
+        "date": "08/31/2006",
+        "firstname": "Derrick",
+        "lastname": "Frazier",
+        "number": "999284",
+        "race": "Black"
+    },
+    {
+        "age": "27",
+        "county": "Smith",
+        "date": "08/24/2006",
+        "firstname": "Justin",
+        "lastname": "Fuller",
+        "number": "999266",
+        "race": "Black"
+    },
+    {
+        "age": "43",
+        "county": "Bexar",
+        "date": "08/17/2006",
+        "firstname": "Richard",
+        "lastname": "Hinojosa",
+        "number": "999246",
+        "race": "Hispanic"
+    },
+    {
+        "age": "41",
+        "county": "Bowie",
+        "date": "08/03/2006",
+        "firstname": "William",
+        "lastname": "Wyatt, Jr.",
+        "number": "999255",
+        "race": "Black"
+    },
+    {
+        "age": "40",
+        "county": "Potter",
+        "date": "07/20/2006",
+        "firstname": "Robert",
+        "lastname": "Anderson",
+        "number": "999084",
+        "race": "White"
+    },
+    {
+        "age": "31",
+        "county": "Bexar",
+        "date": "07/19/2006",
+        "firstname": "Mauriceo",
+        "lastname": "Brown",
+        "number": "999234",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Harris",
+        "date": "07/11/2006",
+        "firstname": "Derrick",
+        "lastname": "O'Brien",
+        "number": "999131",
+        "race": "Black"
+    },
+    {
+        "age": "45",
+        "county": "Harris",
+        "date": "06/27/2006",
+        "firstname": "Angel",
+        "lastname": "Resendiz",
+        "number": "999356",
+        "race": "Hispanic"
+    },
+    {
+        "age": "28",
+        "county": "Tarrant",
+        "date": "06/20/2006",
+        "firstname": "Lamont",
+        "lastname": "Reese",
+        "number": "999374",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Randall",
+        "date": "06/06/2006",
+        "firstname": "Timothy",
+        "lastname": "Titsworth",
+        "number": "999078",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Cameron",
+        "date": "05/24/2006",
+        "firstname": "Jesus",
+        "lastname": "Aguilar",
+        "number": "999191",
+        "race": "Hispanic"
+    },
+    {
+        "age": "27",
+        "county": "Refugio",
+        "date": "05/17/2006",
+        "firstname": "Jermaine",
+        "lastname": "Herron",
+        "number": "999304",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Dallas",
+        "date": "05/04/2006",
+        "firstname": "Jackie",
+        "lastname": "Wilson",
+        "number": "957",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "03/29/2006",
+        "firstname": "Kevin",
+        "lastname": "Kincy",
+        "number": "999179",
+        "race": "Black"
+    },
+    {
+        "age": "27",
+        "county": "Lubbock",
+        "date": "03/22/2006",
+        "firstname": "Robert",
+        "lastname": "Salazar, Jr.",
+        "number": "999303",
+        "race": "Hispanic"
+    },
+    {
+        "age": "31",
+        "county": "Dallas",
+        "date": "03/15/2006",
+        "firstname": "Tommie",
+        "lastname": "Hughes",
+        "number": "999273",
+        "race": "Black"
+    },
+    {
+        "age": "32",
+        "county": "Harris",
+        "date": "02/15/2006",
+        "firstname": "Clyde",
+        "lastname": "Smith, Jr.",
+        "number": "999088",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Tarrant",
+        "date": "02/08/2006",
+        "firstname": "Robert",
+        "lastname": "Neville, Jr.",
+        "number": "999293",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "01/31/2006",
+        "firstname": "Jaime",
+        "lastname": "Elizalde, Jr.",
+        "number": "999230",
+        "race": "Hispanic"
+    },
+    {
+        "age": "33",
+        "county": "Harris",
+        "date": "01/25/2006",
+        "firstname": "Marion",
+        "lastname": "Dudley",
+        "number": "999136",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "11/16/2005",
+        "firstname": "Shannon",
+        "lastname": "Thomas",
+        "number": "999213",
+        "race": "Black"
+    },
+    {
+        "age": "50",
+        "county": "Harris",
+        "date": "11/15/2005",
+        "firstname": "Robert",
+        "lastname": "Rowell",
+        "number": "999104",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Harris",
+        "date": "11/09/2005",
+        "firstname": "Charles",
+        "lastname": "Thacker",
+        "number": "999103",
+        "race": "White"
+    },
+    {
+        "age": "55",
+        "county": "Pecos",
+        "date": "11/03/2005",
+        "firstname": "Melvin",
+        "lastname": "White",
+        "number": "999317",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Tom Green",
+        "date": "10/20/2005",
+        "firstname": "Luis",
+        "lastname": "Ramirez",
+        "number": "999309",
+        "race": "Hispanic"
+    },
+    {
+        "age": "32",
+        "county": "Travis",
+        "date": "10/06/2005",
+        "firstname": "Ronald",
+        "lastname": "Howard",
+        "number": "999069",
+        "race": "Black"
+    },
+    {
+        "age": "40",
+        "county": "Harris",
+        "date": "09/14/2005",
+        "firstname": "Francis",
+        "lastname": "Newton",
+        "number": "922",
+        "race": "Black"
+    },
+    {
+        "age": "30",
+        "county": "Galveston",
+        "date": "08/23/2005",
+        "firstname": "Robert",
+        "lastname": "Shields",
+        "number": "999166",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Navarro",
+        "date": "08/10/2005",
+        "firstname": "Gary",
+        "lastname": "Sterling",
+        "number": "931",
+        "race": "Black"
+    },
+    {
+        "age": "29",
+        "county": "Travis",
+        "date": "07/28/2005",
+        "firstname": "David",
+        "lastname": "Martinez",
+        "number": "999288",
+        "race": "Hispanic"
+    },
+    {
+        "age": "28",
+        "county": "Harris",
+        "date": "06/07/2005",
+        "firstname": "Alexander",
+        "lastname": "Martinez",
+        "number": "999438",
+        "race": "Hispanic"
+    },
+    {
+        "age": "31",
+        "county": "Nueces",
+        "date": "05/19/2005",
+        "firstname": "Richard",
+        "lastname": "Cartwright",
+        "number": "999224",
+        "race": "White"
+    },
+    {
+        "age": "44",
+        "county": "Jefferson",
+        "date": "05/18/2005",
+        "firstname": "Bryan",
+        "lastname": "Wolfe",
+        "number": "999079",
+        "race": "Black"
+    },
+    {
+        "age": "43",
+        "county": "Polk",
+        "date": "05/03/2005",
+        "firstname": "Lonnie",
+        "lastname": "Pursley",
+        "number": "999294",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Kendall",
+        "date": "04/20/2005",
+        "firstname": "Douglas",
+        "lastname": "Roberts",
+        "number": "999218",
+        "race": "White"
+    },
+    {
+        "age": "49",
+        "county": "Dallas",
+        "date": "03/08/2005",
+        "firstname": "George",
+        "lastname": "Hopper",
+        "number": "999037",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Atascosa",
+        "date": "02/17/2005",
+        "firstname": "Dennis",
+        "lastname": "Bagwell",
+        "number": "999209",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Nueces",
+        "date": "01/25/2005",
+        "firstname": "Troy",
+        "lastname": "Kunkle",
+        "number": "784",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Bowie",
+        "date": "01/04/2005",
+        "firstname": "James",
+        "lastname": "Porter",
+        "number": "999378",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Harris",
+        "date": "11/17/2004",
+        "firstname": "Anthony",
+        "lastname": "Fuentes",
+        "number": "999215",
+        "race": "Hispanic"
+    },
+    {
+        "age": "30",
+        "county": "Harris",
+        "date": "11/10/2004",
+        "firstname": "Frederick",
+        "lastname": "McWilliams",
+        "number": "999242",
+        "race": "Black"
+    },
+    {
+        "age": "30",
+        "county": "Harris",
+        "date": "11/09/2004",
+        "firstname": "Demarco",
+        "lastname": "McCullum",
+        "number": "999180",
+        "race": "Black"
+    },
+    {
+        "age": "47",
+        "county": "Liberty",
+        "date": "11/04/2004",
+        "firstname": "Robert",
+        "lastname": "Morrow",
+        "number": "999244",
+        "race": "White"
+    },
+    {
+        "age": "52",
+        "county": "Harris",
+        "date": "11/02/2004",
+        "firstname": "Lorenzo",
+        "lastname": "Morris",
+        "number": "999038",
+        "race": "Black"
+    },
+    {
+        "age": "30",
+        "county": "Harris",
+        "date": "10/26/2004",
+        "firstname": "Dominique",
+        "lastname": "Green",
+        "number": "999068",
+        "race": "Black"
+    },
+    {
+        "age": "53",
+        "county": "Dallas",
+        "date": "10/20/2004",
+        "firstname": "Ricky",
+        "lastname": "Morrow",
+        "number": "753",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Kerr",
+        "date": "10/12/2004",
+        "firstname": "Donald",
+        "lastname": "Aldrich",
+        "number": "999113",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Harris",
+        "date": "10/06/2004",
+        "firstname": "Peter",
+        "lastname": "Miniel",
+        "number": "920",
+        "race": "Hispanic"
+    },
+    {
+        "age": "30",
+        "county": "Harris",
+        "date": "10/05/2004",
+        "firstname": "Edward",
+        "lastname": "Green",
+        "number": "999073",
+        "race": "Black"
+    },
+    {
+        "age": "32",
+        "county": "Bexar",
+        "date": "09/21/2004",
+        "firstname": "Andrew",
+        "lastname": "Flores",
+        "number": "999100",
+        "race": "Hispanic"
+    },
+    {
+        "age": "41",
+        "county": "Tarrant",
+        "date": "08/26/2004",
+        "firstname": "James",
+        "lastname": "Allridge, III",
+        "number": "870",
+        "race": "Black"
+    },
+    {
+        "age": "28",
+        "county": "Cherokee",
+        "date": "08/25/2004",
+        "firstname": "Jasen",
+        "lastname": "Busby",
+        "number": "999201",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Jefferson",
+        "date": "06/30/2004",
+        "firstname": "David",
+        "lastname": "Harris",
+        "number": "827",
+        "race": "White"
+    },
+    {
+        "age": "50",
+        "county": "Anderson",
+        "date": "05/18/2004",
+        "firstname": "Kelsey",
+        "lastname": "Patterson",
+        "number": "999065",
+        "race": "Black"
+    },
+    {
+        "age": "29",
+        "county": "Harris",
+        "date": "03/03/2004",
+        "firstname": "Marcus",
+        "lastname": "Cotton",
+        "number": "999252",
+        "race": "Black"
+    },
+    {
+        "age": "36",
+        "county": "Navarro",
+        "date": "02/17/2004",
+        "firstname": "Cameron",
+        "lastname": "Willingham",
+        "number": "999041",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Johnson",
+        "date": "02/12/2004",
+        "firstname": "Bobby",
+        "lastname": "Hopkins",
+        "number": "999101",
+        "race": "Black"
+    },
+    {
+        "age": "46",
+        "county": "Tarrant",
+        "date": "02/11/2004",
+        "firstname": "Edward",
+        "lastname": "Lagrone",
+        "number": "999083",
+        "race": "Black"
+    },
+    {
+        "age": "58",
+        "county": "Lamar",
+        "date": "01/28/2004",
+        "firstname": "Billy",
+        "lastname": "Vickers",
+        "number": "999087",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Jefferson",
+        "date": "01/21/2004",
+        "firstname": "Kevin",
+        "lastname": "Zimmerman",
+        "number": "977",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Collin",
+        "date": "01/14/2004",
+        "firstname": "Kenneth",
+        "lastname": "Bruce",
+        "number": "999023",
+        "race": "Black"
+    },
+    {
+        "age": "27",
+        "county": "Brazos",
+        "date": "01/06/2004",
+        "firstname": "Ynobe",
+        "lastname": "Matthews",
+        "number": "999387",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Grayson",
+        "date": "12/04/2003",
+        "firstname": "Ivan",
+        "lastname": "Murphy",
+        "number": "989",
+        "race": "White"
+    },
+    {
+        "age": "61",
+        "county": "Harris",
+        "date": "12/03/2003",
+        "firstname": "Richard",
+        "lastname": "Duncan",
+        "number": "999153",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "San Patricio",
+        "date": "11/20/2003",
+        "firstname": "Robert",
+        "lastname": "Henry",
+        "number": "999129",
+        "race": "White"
+    },
+    {
+        "age": "54",
+        "county": "Montgomery",
+        "date": "09/10/2003",
+        "firstname": "Larry",
+        "lastname": "Hayes",
+        "number": "999358",
+        "race": "White"
+    },
+    {
+        "age": "53",
+        "county": "Harris",
+        "date": "07/24/2003",
+        "firstname": "Allen",
+        "lastname": "Janecka",
+        "number": "684",
+        "race": "White"
+    },
+    {
+        "age": "29",
+        "county": "Tarrant",
+        "date": "07/23/2003",
+        "firstname": "Cedric",
+        "lastname": "Ransom",
+        "number": "999050",
+        "race": "Black"
+    },
+    {
+        "age": "43",
+        "county": "Bell",
+        "date": "07/09/2003",
+        "firstname": "Christopher",
+        "lastname": "Black, Sr.",
+        "number": "999277",
+        "race": "Black"
+    },
+    {
+        "age": "64",
+        "county": "Montgomery",
+        "date": "07/02/2003",
+        "firstname": "Hilton",
+        "lastname": "Crawford",
+        "number": "999200",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Bexar",
+        "date": "06/11/2003",
+        "firstname": "Kia",
+        "lastname": "Johnson",
+        "number": "999139",
+        "race": "Black"
+    },
+    {
+        "age": "56",
+        "county": "Dallas",
+        "date": "05/15/2003",
+        "firstname": "Bruce",
+        "lastname": "Jacobs",
+        "number": "876",
+        "race": "White"
+    },
+    {
+        "age": "48",
+        "county": "Wilbarger",
+        "date": "05/06/2003",
+        "firstname": "Roger",
+        "lastname": "Vaughn",
+        "number": "999029",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Dallas",
+        "date": "04/22/2003",
+        "firstname": "John",
+        "lastname": "Chavez",
+        "number": "999186",
+        "race": "Hispanic"
+    },
+    {
+        "age": "43",
+        "county": "Montgomery",
+        "date": "03/26/2003",
+        "firstname": "James",
+        "lastname": "Colburn",
+        "number": "999169",
+        "race": "White"
+    },
+    {
+        "age": "35",
+        "county": "Harris",
+        "date": "03/20/2003",
+        "firstname": "Keith",
+        "lastname": "Clay",
+        "number": "999238",
+        "race": "Black"
+    },
+    {
+        "age": "41",
+        "county": "Anderson",
+        "date": "03/11/2003",
+        "firstname": "Bobby",
+        "lastname": "Cook",
+        "number": "999094",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Harris",
+        "date": "02/25/2003",
+        "firstname": "Richard",
+        "lastname": "Williams",
+        "number": "999251",
+        "race": "Black"
+    },
+    {
+        "age": "28",
+        "county": "Smith",
+        "date": "02/06/2003",
+        "firstname": "Henry",
+        "lastname": "Dunn, Jr.",
+        "number": "999165",
+        "race": "Black"
+    },
+    {
+        "age": "42",
+        "county": "Travis",
+        "date": "02/04/2003",
+        "firstname": "John",
+        "lastname": "Elliott",
+        "number": "861",
+        "race": "Hispanic"
+    },
+    {
+        "age": "33",
+        "county": "Potter",
+        "date": "01/30/2003",
+        "firstname": "Granville",
+        "lastname": "Riddle",
+        "number": "965",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Jefferson",
+        "date": "01/29/2003",
+        "firstname": "Richard",
+        "lastname": "Dinkins",
+        "number": "999022",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Travis",
+        "date": "01/28/2003",
+        "firstname": "Alva",
+        "lastname": "Curry",
+        "number": "999080",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Hidalgo",
+        "date": "01/22/2003",
+        "firstname": "Robert",
+        "lastname": "Lookingbill",
+        "number": "990",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Nueces",
+        "date": "01/15/2003",
+        "firstname": "John",
+        "lastname": "Baltazar",
+        "number": "999257",
+        "race": "Hispanic"
+    },
+    {
+        "age": "31",
+        "county": "Comal",
+        "date": "01/14/2003",
+        "firstname": "Samuel",
+        "lastname": "Gallamore",
+        "number": "999090",
+        "race": "White"
+    },
+    {
+        "age": "55",
+        "county": "Wichita",
+        "date": "12/11/2002",
+        "firstname": "James",
+        "lastname": "Collier",
+        "number": "999190",
+        "race": "White"
+    },
+    {
+        "age": "52",
+        "county": "Johnson",
+        "date": "12/04/2002",
+        "firstname": "Leonard",
+        "lastname": "Rojas",
+        "number": "999194",
+        "race": "Hispanic"
+    },
+    {
+        "age": "66",
+        "county": "Tarrant",
+        "date": "11/20/2002",
+        "firstname": "William",
+        "lastname": "Chappell",
+        "number": "960",
+        "race": "White"
+    },
+    {
+        "age": "47",
+        "county": "Harris",
+        "date": "11/19/2002",
+        "firstname": "Craig",
+        "lastname": "Ogan",
+        "number": "979",
+        "race": "White"
+    },
+    {
+        "age": "56",
+        "county": "Newton",
+        "date": "10/01/2002",
+        "firstname": "James",
+        "lastname": "Powell",
+        "number": "999001",
+        "race": "White"
+    },
+    {
+        "age": "48",
+        "county": "Jefferson",
+        "date": "09/25/2002",
+        "firstname": "Calvin",
+        "lastname": "King",
+        "number": "999152",
+        "race": "Black"
+    },
+    {
+        "age": "42",
+        "county": "Harris",
+        "date": "09/24/2002",
+        "firstname": "Rex",
+        "lastname": "Mays",
+        "number": "999172",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Brazos",
+        "date": "09/18/2002",
+        "firstname": "Ron",
+        "lastname": "Shamburger",
+        "number": "999167",
+        "race": "White"
+    },
+    {
+        "age": "44",
+        "county": "Dallas",
+        "date": "09/17/2002",
+        "firstname": "Jessie",
+        "lastname": "Patrick",
+        "number": "975",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Morris",
+        "date": "09/10/2002",
+        "firstname": "Tony",
+        "lastname": "Walker",
+        "number": "999082",
+        "race": "Black"
+    },
+    {
+        "age": "24",
+        "county": "Dallas",
+        "date": "08/28/2002",
+        "firstname": "Toronto",
+        "lastname": "Patterson",
+        "number": "999178",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Brazoria",
+        "date": "08/20/2002",
+        "firstname": "Gary",
+        "lastname": "Etheridge",
+        "number": "986",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Dallas",
+        "date": "08/14/2002",
+        "firstname": "Javier",
+        "lastname": "Medina",
+        "number": "944",
+        "race": "Hispanic"
+    },
+    {
+        "age": "25",
+        "county": "Gregg",
+        "date": "08/08/2002",
+        "firstname": "T.J.",
+        "lastname": "Jones",
+        "number": "999133",
+        "race": "Black"
+    },
+    {
+        "age": "59",
+        "county": "Montgomery",
+        "date": "08/07/2002",
+        "firstname": "Richard",
+        "lastname": "Kutzner",
+        "number": "999227",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Harris",
+        "date": "06/26/2002",
+        "firstname": "Jeffrey",
+        "lastname": "Williams",
+        "number": "999154",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "06/25/2002",
+        "firstname": "Robert",
+        "lastname": "Coulson",
+        "number": "999115",
+        "race": "White"
+    },
+    {
+        "age": "27",
+        "county": "Gillespie",
+        "date": "06/13/2002",
+        "firstname": "Daniel",
+        "lastname": "Reneau",
+        "number": "999223",
+        "race": "White"
+    },
+    {
+        "age": "35",
+        "county": "Brazos",
+        "date": "05/30/2002",
+        "firstname": "Stanley",
+        "lastname": "Baker, Jr.",
+        "number": "999157",
+        "race": "White"
+    },
+    {
+        "age": "25",
+        "county": "Smith",
+        "date": "05/28/2002",
+        "firstname": "Napoleon",
+        "lastname": "Beazley",
+        "number": "999141",
+        "race": "Black"
+    },
+    {
+        "age": "29",
+        "county": "Nueces",
+        "date": "05/22/2002",
+        "firstname": "Johnny",
+        "lastname": "Martinez",
+        "number": "999089",
+        "race": "Hispanic"
+    },
+    {
+        "age": "32",
+        "county": "Liberty",
+        "date": "05/16/2002",
+        "firstname": "Ronford",
+        "lastname": "Styron",
+        "number": "999124",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Red River",
+        "date": "05/09/2002",
+        "firstname": "Reginald",
+        "lastname": "Reeves",
+        "number": "999119",
+        "race": "Black"
+    },
+    {
+        "age": "54",
+        "county": "Comal",
+        "date": "04/30/2002",
+        "firstname": "Rodolfo",
+        "lastname": "Hernandez",
+        "number": "807",
+        "race": "Hispanic"
+    },
+    {
+        "age": "47",
+        "county": "Montgomery",
+        "date": "04/18/2002",
+        "firstname": "Gerald",
+        "lastname": "Casey",
+        "number": "999013",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Bowie",
+        "date": "04/11/2002",
+        "firstname": "William",
+        "lastname": "Burns",
+        "number": "692",
+        "race": "Black"
+    },
+    {
+        "age": "40",
+        "county": "Kerr",
+        "date": "04/10/2002",
+        "firstname": "Jose",
+        "lastname": "Santellan, Sr.",
+        "number": "999140",
+        "race": "Hispanic"
+    },
+    {
+        "age": "29",
+        "county": "McLennan",
+        "date": "03/07/2002",
+        "firstname": "Gerald",
+        "lastname": "Tigner",
+        "number": "999099",
+        "race": "Black"
+    },
+    {
+        "age": "35",
+        "county": "Anderson",
+        "date": "02/28/2002",
+        "firstname": "Monty",
+        "lastname": "Delk",
+        "number": "900",
+        "race": "White"
+    },
+    {
+        "age": "48",
+        "county": "Randall",
+        "date": "01/31/2002",
+        "firstname": "Randall",
+        "lastname": "Hafdahl, Sr.",
+        "number": "826",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Jefferson",
+        "date": "01/30/2002",
+        "firstname": "Windell",
+        "lastname": "Broussard",
+        "number": "999064",
+        "race": "Black"
+    },
+    {
+        "age": "43",
+        "county": "Nueces",
+        "date": "01/16/2002",
+        "firstname": "Jermarr",
+        "lastname": "Arnold",
+        "number": "987",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Coryell",
+        "date": "01/09/2002",
+        "firstname": "Michael",
+        "lastname": "Moore",
+        "number": "999126",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Dallas",
+        "date": "12/12/2001",
+        "firstname": "Vincent",
+        "lastname": "Cooks",
+        "number": "927",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Dallas",
+        "date": "11/15/2001",
+        "firstname": "Emerson",
+        "lastname": "Rudd",
+        "number": "936",
+        "race": "Black"
+    },
+    {
+        "age": "41",
+        "county": "Parker",
+        "date": "11/14/2001",
+        "firstname": "Jeffery",
+        "lastname": "Tucker",
+        "number": "952",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Harris",
+        "date": "10/22/2001",
+        "firstname": "Gerald",
+        "lastname": "Mitchell",
+        "number": "838",
+        "race": "Black"
+    },
+    {
+        "age": "50",
+        "county": "Galveston",
+        "date": "09/18/2001",
+        "firstname": "James",
+        "lastname": "Knox",
+        "number": "823",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Nueces",
+        "date": "08/16/2001",
+        "firstname": "Jeffery",
+        "lastname": "Doughtie",
+        "number": "999106",
+        "race": "White"
+    },
+    {
+        "age": "47",
+        "county": "Lubbock",
+        "date": "08/08/2001",
+        "firstname": "Mack",
+        "lastname": "Hill",
+        "number": "961",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Smith",
+        "date": "07/11/2001",
+        "firstname": "James",
+        "lastname": "Wilkens",
+        "number": "897",
+        "race": "White"
+    },
+    {
+        "age": "46",
+        "county": "Bexar",
+        "date": "06/26/2001",
+        "firstname": "Miguel",
+        "lastname": "Richardson",
+        "number": "691",
+        "race": "Black"
+    },
+    {
+        "age": "57",
+        "county": "Tarrant",
+        "date": "06/13/2001",
+        "firstname": "John",
+        "lastname": "Wheat",
+        "number": "999222",
+        "race": "White"
+    },
+    {
+        "age": "31",
+        "county": "Tarrant",
+        "date": "04/25/2001",
+        "firstname": "David",
+        "lastname": "Goff",
+        "number": "999015",
+        "race": "Black"
+    },
+    {
+        "age": "28",
+        "county": "Ellis",
+        "date": "04/03/2001",
+        "firstname": "Jason",
+        "lastname": "Massey",
+        "number": "999121",
+        "race": "White"
+    },
+    {
+        "age": "55",
+        "county": "Montgomery",
+        "date": "03/07/2001",
+        "firstname": "Dennis",
+        "lastname": "Dowthitt",
+        "number": "999047",
+        "race": "White"
+    },
+    {
+        "age": "50",
+        "county": "Lubbock",
+        "date": "02/08/2001",
+        "firstname": "Adolph",
+        "lastname": "Hernandez",
+        "number": "978",
+        "race": "Hispanic"
+    },
+    {
+        "age": "52",
+        "county": "Bexar",
+        "date": "01/29/2001",
+        "firstname": "Caruthers",
+        "lastname": "Alexander",
+        "number": "704",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Montgomery",
+        "date": "01/18/2001",
+        "firstname": "Alvin",
+        "lastname": "Goodwin",
+        "number": "879",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Lubbock",
+        "date": "01/09/2001",
+        "firstname": "Jack",
+        "lastname": "Clark",
+        "number": "994",
+        "race": "White"
+    },
+    {
+        "age": "60",
+        "county": "San Jacinto",
+        "date": "12/07/2000",
+        "firstname": "Claude",
+        "lastname": "Jones",
+        "number": "980",
+        "race": "White"
+    },
+    {
+        "age": "50",
+        "county": "Dallas",
+        "date": "12/06/2000",
+        "firstname": "Daniel",
+        "lastname": "Hittle",
+        "number": "981",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Jones",
+        "date": "12/05/2000",
+        "firstname": "Garry",
+        "lastname": "Miller",
+        "number": "947",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Smith",
+        "date": "11/15/2000",
+        "firstname": "Tony",
+        "lastname": "Chambers",
+        "number": "999009",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Smith",
+        "date": "11/14/2000",
+        "firstname": "Stacey",
+        "lastname": "Lawton",
+        "number": "999066",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Collin",
+        "date": "11/09/2000",
+        "firstname": "Miguel",
+        "lastname": "Flores",
+        "number": "983",
+        "race": "Hispanic"
+    },
+    {
+        "age": "27",
+        "county": "Wichita",
+        "date": "11/01/2000",
+        "firstname": "Jeffery",
+        "lastname": "Dillingham",
+        "number": "999071",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Brown",
+        "date": "09/27/2000",
+        "firstname": "Ricky",
+        "lastname": "McGinn",
+        "number": "999150",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Dallas",
+        "date": "08/30/2000",
+        "firstname": "Jeffery",
+        "lastname": "Caldwell",
+        "number": "938",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Montgomery",
+        "date": "08/23/2000",
+        "firstname": "David",
+        "lastname": "Gibbs",
+        "number": "825",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Tarrant",
+        "date": "08/22/2000",
+        "firstname": "Richard",
+        "lastname": "Jones",
+        "number": "882",
+        "race": "White"
+    },
+    {
+        "age": "53",
+        "county": "Bexar",
+        "date": "08/16/2000",
+        "firstname": "John",
+        "lastname": "Satterwhite",
+        "number": "651",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Bexar",
+        "date": "08/09/2000",
+        "firstname": "Oliver",
+        "lastname": "Cruz",
+        "number": "954",
+        "race": "Hispanic"
+    },
+    {
+        "age": "36",
+        "county": "Dallas",
+        "date": "08/09/2000",
+        "firstname": "Brian",
+        "lastname": "Roberson",
+        "number": "886",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Tarrant",
+        "date": "07/26/2000",
+        "firstname": "Juan",
+        "lastname": "Soria",
+        "number": "837",
+        "race": "Hispanic"
+    },
+    {
+        "age": "50",
+        "county": "Lubbock",
+        "date": "07/12/2000",
+        "firstname": "Orien",
+        "lastname": "Joiner",
+        "number": "902",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Dallas",
+        "date": "06/29/2000",
+        "firstname": "Jessy",
+        "lastname": "San Miguel",
+        "number": "999008",
+        "race": "Hispanic"
+    },
+    {
+        "age": "39",
+        "county": "Harris",
+        "date": "06/22/2000",
+        "firstname": "Gary",
+        "lastname": "Graham",
+        "number": "696",
+        "race": "Black"
+    },
+    {
+        "age": "32",
+        "county": "Hale",
+        "date": "06/15/2000",
+        "firstname": "Paul",
+        "lastname": "Nuncio",
+        "number": "999158",
+        "race": "Hispanic"
+    },
+    {
+        "age": "44",
+        "county": "McLennan",
+        "date": "06/14/2000",
+        "firstname": "John",
+        "lastname": "Burks",
+        "number": "949",
+        "race": "Black"
+    },
+    {
+        "age": "48",
+        "county": "Smith",
+        "date": "06/12/2000",
+        "firstname": "Thomas",
+        "lastname": "Mason",
+        "number": "999035",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Bastrop",
+        "date": "05/31/2000",
+        "firstname": "Robert",
+        "lastname": "Carter",
+        "number": "999091",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Taylor",
+        "date": "05/25/2000",
+        "firstname": "James",
+        "lastname": "Clayton",
+        "number": "921",
+        "race": "Black"
+    },
+    {
+        "age": "47",
+        "county": "Parker",
+        "date": "05/24/2000",
+        "firstname": "Richard",
+        "lastname": "Foster",
+        "number": "815",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Navarro",
+        "date": "05/23/2000",
+        "firstname": "James",
+        "lastname": "Richardson",
+        "number": "867",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Lubbock",
+        "date": "05/11/2000",
+        "firstname": "Michael",
+        "lastname": "McBride",
+        "number": "903",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Taylor",
+        "date": "05/09/2000",
+        "firstname": "William",
+        "lastname": "Kitchens",
+        "number": "840",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Williamson",
+        "date": "05/04/2000",
+        "firstname": "Tommy",
+        "lastname": "Jackson",
+        "number": "821",
+        "race": "Black"
+    },
+    {
+        "age": "36",
+        "county": "Galveston",
+        "date": "03/15/2000",
+        "firstname": "Timothy",
+        "lastname": "Gribble",
+        "number": "929",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Harris",
+        "date": "03/14/2000",
+        "firstname": "Ponchai",
+        "lastname": "Wilkerson",
+        "number": "999011",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Lubbock",
+        "date": "03/01/2000",
+        "firstname": "Odell",
+        "lastname": "Barnes, Jr.",
+        "number": "998",
+        "race": "Black"
+    },
+    {
+        "age": "62",
+        "county": "Henderson",
+        "date": "02/24/2000",
+        "firstname": "Betty",
+        "lastname": "Beets",
+        "number": "810",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Dallas",
+        "date": "02/23/2000",
+        "firstname": "Cornelius",
+        "lastname": "Goss",
+        "number": "912",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Henderson",
+        "date": "01/27/2000",
+        "firstname": "James",
+        "lastname": "Moreland",
+        "number": "741",
+        "race": "White"
+    },
+    {
+        "age": "27",
+        "county": "Montgomery",
+        "date": "01/25/2000",
+        "firstname": "Glen",
+        "lastname": "McGinnis",
+        "number": "999039",
+        "race": "Black"
+    },
+    {
+        "age": "47",
+        "county": "Matagorda",
+        "date": "01/24/2000",
+        "firstname": "Billy",
+        "lastname": "Hughes, Jr.",
+        "number": "556",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Tarrant",
+        "date": "01/21/2000",
+        "firstname": "Larry",
+        "lastname": "Robison",
+        "number": "748",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Freestone",
+        "date": "01/20/2000",
+        "firstname": "David",
+        "lastname": "Hicks",
+        "number": "930",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Fort Bend",
+        "date": "01/18/2000",
+        "firstname": "Spencer",
+        "lastname": "Goodman",
+        "number": "999031",
+        "race": "White"
+    },
+    {
+        "age": "48",
+        "county": "Sabine",
+        "date": "01/12/2000",
+        "firstname": "Earl",
+        "lastname": "Heiselbetz, Jr.",
+        "number": "999014",
+        "race": "White"
+    },
+    {
+        "age": "54",
+        "county": "Harris",
+        "date": "12/15/1999",
+        "firstname": "Sammie",
+        "lastname": "Felder, Jr.",
+        "number": "550",
+        "race": "Black"
+    },
+    {
+        "age": "30",
+        "county": "Dallas",
+        "date": "12/14/1999",
+        "firstname": "Robert",
+        "lastname": "Atworth",
+        "number": "999199",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Trinity",
+        "date": "12/09/1999",
+        "firstname": "James",
+        "lastname": "Beathard",
+        "number": "785",
+        "race": "White"
+    },
+    {
+        "age": "46",
+        "county": "Dallas",
+        "date": "12/08/1999",
+        "firstname": "David",
+        "lastname": "Long",
+        "number": "862",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Brazos",
+        "date": "11/18/1999",
+        "firstname": "Jose",
+        "lastname": "Gutierrez",
+        "number": "970",
+        "race": "Hispanic"
+    },
+    {
+        "age": "42",
+        "county": "Hunt",
+        "date": "11/17/1999",
+        "firstname": "John",
+        "lastname": "Lamb",
+        "number": "734",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Tarrant",
+        "date": "11/16/1999",
+        "firstname": "Desmond",
+        "lastname": "Jennings",
+        "number": "999161",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Dallas",
+        "date": "10/28/1999",
+        "firstname": "Domingo",
+        "lastname": "Cantu, Jr.",
+        "number": "924",
+        "race": "Hispanic"
+    },
+    {
+        "age": "51",
+        "county": "Upshur",
+        "date": "10/14/1999",
+        "firstname": "Jerry",
+        "lastname": "McFadden",
+        "number": "875",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Denton",
+        "date": "10/12/1999",
+        "firstname": "Alvin",
+        "lastname": "Crane",
+        "number": "888",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Harris",
+        "date": "09/21/1999",
+        "firstname": "Richard",
+        "lastname": "Smith",
+        "number": "999116",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Harris",
+        "date": "09/14/1999",
+        "firstname": "William",
+        "lastname": "Davis",
+        "number": "614",
+        "race": "Black"
+    },
+    {
+        "age": "51",
+        "county": "Harris",
+        "date": "09/10/1999",
+        "firstname": "Willis",
+        "lastname": "Barnes",
+        "number": "935",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Jefferson",
+        "date": "09/01/1999",
+        "firstname": "Raymond",
+        "lastname": "Jones",
+        "number": "959",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Tarrant",
+        "date": "08/18/1999",
+        "firstname": "Joe",
+        "lastname": "Trevino, Jr.",
+        "number": "767",
+        "race": "Hispanic"
+    },
+    {
+        "age": "56",
+        "county": "Lee",
+        "date": "08/11/1999",
+        "firstname": "James",
+        "lastname": "Earhart",
+        "number": "905",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Harris",
+        "date": "08/10/1999",
+        "firstname": "Kenneth",
+        "lastname": "Dunn",
+        "number": "675",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Dallas",
+        "date": "08/05/1999",
+        "firstname": "Charles",
+        "lastname": "Boyd",
+        "number": "891",
+        "race": "Black"
+    },
+    {
+        "age": "41",
+        "county": "Shelby",
+        "date": "08/04/1999",
+        "firstname": "Ricky",
+        "lastname": "Blackmon",
+        "number": "893",
+        "race": "White"
+    },
+    {
+        "age": "35",
+        "county": "Grayson",
+        "date": "07/07/1999",
+        "firstname": "Tyrone",
+        "lastname": "Fuller",
+        "number": "934",
+        "race": "Black"
+    },
+    {
+        "age": "35",
+        "county": "Smith",
+        "date": "07/01/1999",
+        "firstname": "Charles",
+        "lastname": "Tuttle",
+        "number": "999183",
+        "race": "White"
+    },
+    {
+        "age": "61",
+        "county": "Gregg",
+        "date": "06/17/1999",
+        "firstname": "Joseph",
+        "lastname": "Faulder",
+        "number": "580",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Liberty",
+        "date": "06/01/1999",
+        "firstname": "William",
+        "lastname": "Little",
+        "number": "788",
+        "race": "White"
+    },
+    {
+        "age": "62",
+        "county": "McLennan",
+        "date": "05/05/1999",
+        "firstname": "Clydell",
+        "lastname": "Coleman",
+        "number": "968",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Nueces",
+        "date": "05/04/1999",
+        "firstname": "Jose",
+        "lastname": "De La Cruz",
+        "number": "908",
+        "race": "Hispanic"
+    },
+    {
+        "age": "26",
+        "county": "Tarrant",
+        "date": "04/28/1999",
+        "firstname": "Aaron",
+        "lastname": "Foust",
+        "number": "999268",
+        "race": "White"
+    },
+    {
+        "age": "61",
+        "county": "Collin",
+        "date": "03/30/1999",
+        "firstname": "Excell",
+        "lastname": "White",
+        "number": "511",
+        "race": "White"
+    },
+    {
+        "age": "44",
+        "county": "Travis",
+        "date": "03/26/1999",
+        "firstname": "Charles",
+        "lastname": "Rector",
+        "number": "721",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Bexar",
+        "date": "02/24/1999",
+        "firstname": "Norman",
+        "lastname": "Green",
+        "number": "805",
+        "race": "Black"
+    },
+    {
+        "age": "30",
+        "county": "Taylor",
+        "date": "02/16/1999",
+        "firstname": "Andrew",
+        "lastname": "Cantu",
+        "number": "999",
+        "race": "Hispanic"
+    },
+    {
+        "age": "43",
+        "county": "Dallas",
+        "date": "02/11/1999",
+        "firstname": "Danny",
+        "lastname": "Barber",
+        "number": "673",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Bexar",
+        "date": "02/10/1999",
+        "firstname": "George",
+        "lastname": "Cordova",
+        "number": "706",
+        "race": "Hispanic"
+    },
+    {
+        "age": "52",
+        "county": "Caldwell",
+        "date": "01/26/1999",
+        "firstname": "Martin",
+        "lastname": "Vega",
+        "number": "932",
+        "race": "Hispanic"
+    },
+    {
+        "age": "36",
+        "county": "Tarrant",
+        "date": "01/13/1999",
+        "firstname": "Troy",
+        "lastname": "Farris",
+        "number": "831",
+        "race": "White"
+    },
+    {
+        "age": "46",
+        "county": "Taylor",
+        "date": "01/05/1999",
+        "firstname": "John",
+        "lastname": "Moody",
+        "number": "933",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Harris",
+        "date": "12/15/1998",
+        "firstname": "James",
+        "lastname": "Meanes",
+        "number": "689",
+        "race": "Black"
+    },
+    {
+        "age": "49",
+        "county": "Brazos",
+        "date": "12/08/1998",
+        "firstname": "Jeff",
+        "lastname": "Emery",
+        "number": "830",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Montgomery",
+        "date": "12/07/1998",
+        "firstname": "Daniel",
+        "lastname": "Corwin",
+        "number": "969",
+        "race": "White"
+    },
+    {
+        "age": "52",
+        "county": "Harris",
+        "date": "11/17/1998",
+        "firstname": "Kenneth",
+        "lastname": "McDuff",
+        "number": "999055",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Travis",
+        "date": "10/07/1998",
+        "firstname": "Jonathan",
+        "lastname": "Nobles",
+        "number": "885",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Bexar",
+        "date": "10/01/1998",
+        "firstname": "Javier",
+        "lastname": "Cruz",
+        "number": "999061",
+        "race": "Hispanic"
+    },
+    {
+        "age": "43",
+        "county": "Hidalgo",
+        "date": "09/23/1998",
+        "firstname": "David",
+        "lastname": "Castillo",
+        "number": "770",
+        "race": "Hispanic"
+    },
+    {
+        "age": "35",
+        "county": "Tarrant",
+        "date": "09/09/1998",
+        "firstname": "Delbert",
+        "lastname": "Teague, Jr.",
+        "number": "849",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Dallas",
+        "date": "08/26/1998",
+        "firstname": "Genaro",
+        "lastname": "Camacho, Jr.",
+        "number": "972",
+        "race": "Hispanic"
+    },
+    {
+        "age": "30",
+        "county": "Bexar",
+        "date": "06/26/1998",
+        "firstname": "Leopoldo",
+        "lastname": "Narvaiz",
+        "number": "923",
+        "race": "Hispanic"
+    },
+    {
+        "age": "40",
+        "county": "Dallas",
+        "date": "06/15/1998",
+        "firstname": "Johnny",
+        "lastname": "Pyles",
+        "number": "724",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Clay",
+        "date": "06/11/1998",
+        "firstname": "Clifford",
+        "lastname": "Boggess",
+        "number": "887",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Williamson",
+        "date": "05/19/1998",
+        "firstname": "Pedro",
+        "lastname": "Muniz",
+        "number": "575",
+        "race": "Hispanic"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "05/18/1998",
+        "firstname": "Robert",
+        "lastname": "Carter",
+        "number": "708",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Tarrant",
+        "date": "04/29/1998",
+        "firstname": "Frank",
+        "lastname": "McFarland",
+        "number": "963",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Victoria",
+        "date": "04/24/1998",
+        "firstname": "Lesley",
+        "lastname": "Gosch",
+        "number": "842",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Bexar",
+        "date": "04/22/1998",
+        "firstname": "Joseph",
+        "lastname": "Cannon",
+        "number": "634",
+        "race": "White"
+    },
+    {
+        "age": "47",
+        "county": "Tarrant",
+        "date": "03/11/1998",
+        "firstname": "Jerry",
+        "lastname": "Hogue",
+        "number": "660",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Harrison",
+        "date": "02/09/1998",
+        "firstname": "Steven",
+        "lastname": "Renfro",
+        "number": "999229",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "02/03/1998",
+        "firstname": "Karla",
+        "lastname": "Tucker",
+        "number": "777",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Bexar",
+        "date": "12/09/1997",
+        "firstname": "Michael",
+        "lastname": "Lockhart",
+        "number": "917",
+        "race": "White"
+    },
+    {
+        "age": "35",
+        "county": "Harris",
+        "date": "11/21/1997",
+        "firstname": "Charlie",
+        "lastname": "Livingston",
+        "number": "802",
+        "race": "Black"
+    },
+    {
+        "age": "43",
+        "county": "Crockett",
+        "date": "11/19/1997",
+        "firstname": "Michael",
+        "lastname": "Sharp",
+        "number": "740",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Dawson",
+        "date": "11/06/1997",
+        "firstname": "Aaron",
+        "lastname": "Fuller",
+        "number": "964",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Harris",
+        "date": "11/04/1997",
+        "firstname": "Aua",
+        "lastname": "Lauti",
+        "number": "843",
+        "race": "Other"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "10/28/1997",
+        "firstname": "Kenneth",
+        "lastname": "Ransom",
+        "number": "772",
+        "race": "Black"
+    },
+    {
+        "age": "36",
+        "county": "Tarrant",
+        "date": "10/08/1997",
+        "firstname": "Ricky",
+        "lastname": "Green",
+        "number": "984",
+        "race": "White"
+    },
+    {
+        "age": "41",
+        "county": "Bexar",
+        "date": "10/01/1997",
+        "firstname": "Dwight",
+        "lastname": "Adanandus",
+        "number": "940",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Bowie",
+        "date": "09/30/1997",
+        "firstname": "John",
+        "lastname": "Cockrum",
+        "number": "854",
+        "race": "White"
+    },
+    {
+        "age": "45",
+        "county": "Nueces",
+        "date": "09/25/1997",
+        "firstname": "Benjamin",
+        "lastname": "Stone",
+        "number": "999187",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Harris",
+        "date": "09/22/1997",
+        "firstname": "Jessel",
+        "lastname": "Turner",
+        "number": "895",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Travis",
+        "date": "09/09/1997",
+        "firstname": "James",
+        "lastname": "Davis",
+        "number": "786",
+        "race": "Black"
+    },
+    {
+        "age": "35",
+        "county": "Harris",
+        "date": "07/29/1997",
+        "firstname": "Robert",
+        "lastname": "West, Jr.",
+        "number": "731",
+        "race": "White"
+    },
+    {
+        "age": "29",
+        "county": "Cameron",
+        "date": "06/18/1997",
+        "firstname": "Irineo",
+        "lastname": "Montoya",
+        "number": "847",
+        "race": "Hispanic"
+    },
+    {
+        "age": "44",
+        "county": "Aransas",
+        "date": "06/17/1997",
+        "firstname": "Eddie",
+        "lastname": "Johnson",
+        "number": "898",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Hale",
+        "date": "06/16/1997",
+        "firstname": "David",
+        "lastname": "Stoker",
+        "number": "892",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Tarrant",
+        "date": "06/11/1997",
+        "firstname": "Earl",
+        "lastname": "Behringer",
+        "number": "914",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Cameron",
+        "date": "06/04/1997",
+        "firstname": "Davis",
+        "lastname": "Losada",
+        "number": "798",
+        "race": "Hispanic"
+    },
+    {
+        "age": "30",
+        "county": "Scurry",
+        "date": "06/04/1997",
+        "firstname": "Dorsie",
+        "lastname": "Johnson, Jr.",
+        "number": "850",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "06/03/1997",
+        "firstname": "Kenneth",
+        "lastname": "Harris",
+        "number": "901",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Collin",
+        "date": "06/02/1997",
+        "firstname": "Patrick",
+        "lastname": "Rogers",
+        "number": "816",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Leon",
+        "date": "05/28/1997",
+        "firstname": "Robert",
+        "lastname": "Madden",
+        "number": "822",
+        "race": "White"
+    },
+    {
+        "age": "47",
+        "county": "Harris",
+        "date": "05/22/1997",
+        "firstname": "Larry",
+        "lastname": "White",
+        "number": "640",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Tarrant",
+        "date": "05/21/1997",
+        "firstname": "Bruce",
+        "lastname": "Callins",
+        "number": "717",
+        "race": "Black"
+    },
+    {
+        "age": "42",
+        "county": "Tom Green",
+        "date": "05/20/1997",
+        "firstname": "Clarence",
+        "lastname": "Lackey",
+        "number": "591",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Harris",
+        "date": "05/19/1997",
+        "firstname": "Richard",
+        "lastname": "Drinkard",
+        "number": "846",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "McLennan",
+        "date": "05/16/1997",
+        "firstname": "Clifton",
+        "lastname": "Belyeu",
+        "number": "841",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Harris",
+        "date": "05/13/1997",
+        "firstname": "Anthony",
+        "lastname": "Westley",
+        "number": "797",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Walker",
+        "date": "05/06/1997",
+        "firstname": "Terry",
+        "lastname": "Washington",
+        "number": "884",
+        "race": "Black"
+    },
+    {
+        "age": "55",
+        "county": "Navarro",
+        "date": "04/29/1997",
+        "firstname": "Ernest",
+        "lastname": "Baldree",
+        "number": "855",
+        "race": "White"
+    },
+    {
+        "age": "53",
+        "county": "Potter",
+        "date": "04/21/1997",
+        "firstname": "Benjamin",
+        "lastname": "Boyle",
+        "number": "853",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Denton",
+        "date": "04/16/1997",
+        "firstname": "Kenneth",
+        "lastname": "Gentry",
+        "number": "760",
+        "race": "White"
+    },
+    {
+        "age": "50",
+        "county": "Harris",
+        "date": "04/14/1997",
+        "firstname": "Billy",
+        "lastname": "Woods",
+        "number": "552",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "McLennan",
+        "date": "04/03/1997",
+        "firstname": "David",
+        "lastname": "Spence",
+        "number": "773",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Tarrant",
+        "date": "04/02/1997",
+        "firstname": "David",
+        "lastname": "Herman",
+        "number": "999003",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Harris",
+        "date": "03/12/1997",
+        "firstname": "John",
+        "lastname": "Barefield",
+        "number": "844",
+        "race": "Black"
+    },
+    {
+        "age": "42",
+        "county": "Kleberg",
+        "date": "02/10/1997",
+        "firstname": "Richard",
+        "lastname": "Brimage, Jr.",
+        "number": "899",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Potter",
+        "date": "09/18/1996",
+        "firstname": "Joe",
+        "lastname": "Gonzales, Jr.",
+        "number": "999177",
+        "race": "Hispanic"
+    },
+    {
+        "age": "45",
+        "county": "Tarrant",
+        "date": "02/27/1996",
+        "firstname": "Kenneth",
+        "lastname": "Granviel",
+        "number": "533",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "02/09/1996",
+        "firstname": "Leo",
+        "lastname": "Jenkins",
+        "number": "967",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Harris",
+        "date": "12/12/1995",
+        "firstname": "James",
+        "lastname": "Briddle",
+        "number": "711",
+        "race": "White"
+    },
+    {
+        "age": "31",
+        "county": "Hamilton",
+        "date": "12/11/1995",
+        "firstname": "Esequel",
+        "lastname": "Banda",
+        "number": "863",
+        "race": "Hispanic"
+    },
+    {
+        "age": "40",
+        "county": "Jefferson",
+        "date": "12/07/1995",
+        "firstname": "Hai",
+        "lastname": "Vuong",
+        "number": "904",
+        "race": "Other"
+    },
+    {
+        "age": "33",
+        "county": "Dallas",
+        "date": "12/06/1995",
+        "firstname": "Bernard",
+        "lastname": "Amos",
+        "number": "926",
+        "race": "Black"
+    },
+    {
+        "age": "50",
+        "county": "Dallas",
+        "date": "10/04/1995",
+        "firstname": "Harold",
+        "lastname": "Lane",
+        "number": "745",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Harris",
+        "date": "09/19/1995",
+        "firstname": "Carl",
+        "lastname": "Johnson",
+        "number": "633",
+        "race": "Black"
+    },
+    {
+        "age": "40",
+        "county": "Bexar",
+        "date": "08/15/1995",
+        "firstname": "Vernon",
+        "lastname": "Sattiewhite",
+        "number": "857",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Bexar",
+        "date": "06/21/1995",
+        "firstname": "Karl",
+        "lastname": "Hammond",
+        "number": "865",
+        "race": "Black"
+    },
+    {
+        "age": "41",
+        "county": "Dallas",
+        "date": "06/20/1995",
+        "firstname": "John",
+        "lastname": "Fearance",
+        "number": "626",
+        "race": "Black"
+    },
+    {
+        "age": "35",
+        "county": "Tarrant",
+        "date": "06/08/1995",
+        "firstname": "Ronald",
+        "lastname": "Allridge",
+        "number": "818",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Dallas",
+        "date": "06/01/1995",
+        "firstname": "Fletcher",
+        "lastname": "Mann",
+        "number": "705",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Wilbarger",
+        "date": "04/06/1995",
+        "firstname": "Noble",
+        "lastname": "Mays",
+        "number": "674",
+        "race": "White"
+    },
+    {
+        "age": "52",
+        "county": "Lubbock",
+        "date": "02/21/1995",
+        "firstname": "Samuel",
+        "lastname": "Hawkins",
+        "number": "590",
+        "race": "Black"
+    },
+    {
+        "age": "52",
+        "county": "Dallas",
+        "date": "02/16/1995",
+        "firstname": "Billy",
+        "lastname": "Gardner",
+        "number": "751",
+        "race": "White"
+    },
+    {
+        "age": "29",
+        "county": "Harris",
+        "date": "02/07/1995",
+        "firstname": "Jeffery",
+        "lastname": "Motley",
+        "number": "789",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "01/31/1995",
+        "firstname": "Willie",
+        "lastname": "Williams",
+        "number": "677",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Taylor",
+        "date": "01/31/1995",
+        "firstname": "Clifton",
+        "lastname": "Russell, Jr.",
+        "number": "658",
+        "race": "White"
+    },
+    {
+        "age": "36",
+        "county": "Bexar",
+        "date": "01/17/1995",
+        "firstname": "Mario",
+        "lastname": "Marquez",
+        "number": "776",
+        "race": "Hispanic"
+    },
+    {
+        "age": "44",
+        "county": "Walker",
+        "date": "01/04/1995",
+        "firstname": "Jesse",
+        "lastname": "Jacobs",
+        "number": "872",
+        "race": "White"
+    },
+    {
+        "age": "53",
+        "county": "Harris",
+        "date": "12/11/1994",
+        "firstname": "Raymond",
+        "lastname": "Kinnamon",
+        "number": "808",
+        "race": "White"
+    },
+    {
+        "age": "48",
+        "county": "Harris",
+        "date": "12/06/1994",
+        "firstname": "Herman",
+        "lastname": "Clark, Jr.",
+        "number": "715",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Galveston",
+        "date": "11/22/1994",
+        "firstname": "Warren",
+        "lastname": "Bridge",
+        "number": "668",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Bexar",
+        "date": "10/05/1994",
+        "firstname": "Walter",
+        "lastname": "Williams",
+        "number": "722",
+        "race": "Black"
+    },
+    {
+        "age": "47",
+        "county": "Potter",
+        "date": "09/20/1994",
+        "firstname": "George",
+        "lastname": "Lott",
+        "number": "999058",
+        "race": "White"
+    },
+    {
+        "age": "29",
+        "county": "Brazos",
+        "date": "09/16/1994",
+        "firstname": "Jessie",
+        "lastname": "Gutierrez",
+        "number": "971",
+        "race": "Hispanic"
+    },
+    {
+        "age": "35",
+        "county": "Harris",
+        "date": "08/02/1994",
+        "firstname": "Robert",
+        "lastname": "Drew",
+        "number": "755",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "06/14/1994",
+        "firstname": "Denton",
+        "lastname": "Crank",
+        "number": "803",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Dallas",
+        "date": "05/27/1994",
+        "firstname": "Stephen",
+        "lastname": "Nethery",
+        "number": "698",
+        "race": "White"
+    },
+    {
+        "age": "46",
+        "county": "Harris",
+        "date": "05/03/1994",
+        "firstname": "Paul",
+        "lastname": "Rougeau",
+        "number": "603",
+        "race": "Black"
+    },
+    {
+        "age": "41",
+        "county": "Harris",
+        "date": "04/26/1994",
+        "firstname": "Larry",
+        "lastname": "Anderson",
+        "number": "733",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Harris",
+        "date": "04/04/1994",
+        "firstname": "Richard",
+        "lastname": "Beavers",
+        "number": "916",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Nueces",
+        "date": "03/31/1994",
+        "firstname": "Freddie",
+        "lastname": "Webb",
+        "number": "848",
+        "race": "Black"
+    },
+    {
+        "age": "51",
+        "county": "Galveston",
+        "date": "02/02/1994",
+        "firstname": "Harold",
+        "lastname": "Barnard",
+        "number": "683",
+        "race": "White"
+    },
+    {
+        "age": "59",
+        "county": "Harris",
+        "date": "12/15/1993",
+        "firstname": "Clifford",
+        "lastname": "Phillips",
+        "number": "723",
+        "race": "Black"
+    },
+    {
+        "age": "34",
+        "county": "Milam",
+        "date": "11/10/1993",
+        "firstname": "Anthony",
+        "lastname": "Cook",
+        "number": "918",
+        "race": "White"
+    },
+    {
+        "age": "33",
+        "county": "Harris",
+        "date": "09/28/1993",
+        "firstname": "Antonio",
+        "lastname": "Bonham",
+        "number": "700",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Chambers",
+        "date": "09/03/1993",
+        "firstname": "Johnny",
+        "lastname": "James",
+        "number": "839",
+        "race": "White"
+    },
+    {
+        "age": "29",
+        "county": "Harris",
+        "date": "08/31/1993",
+        "firstname": "Richard",
+        "lastname": "Wilkerson",
+        "number": "756",
+        "race": "Black"
+    },
+    {
+        "age": "26",
+        "county": "Bexar",
+        "date": "08/24/1993",
+        "firstname": "Ruben",
+        "lastname": "Cantu",
+        "number": "804",
+        "race": "Hispanic"
+    },
+    {
+        "age": "34",
+        "county": "McLennan",
+        "date": "08/20/1993",
+        "firstname": "Carl",
+        "lastname": "Kelly",
+        "number": "688",
+        "race": "Black"
+    },
+    {
+        "age": "58",
+        "county": "Jefferson",
+        "date": "08/12/1993",
+        "firstname": "David",
+        "lastname": "Holland",
+        "number": "820",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Navarro",
+        "date": "08/05/1993",
+        "firstname": "Joseph",
+        "lastname": "Jernigan",
+        "number": "699",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Brazos",
+        "date": "07/30/1993",
+        "firstname": "Danny",
+        "lastname": "Harris",
+        "number": "649",
+        "race": "Black"
+    },
+    {
+        "age": "31",
+        "county": "Brazos",
+        "date": "07/01/1993",
+        "firstname": "Curtis",
+        "lastname": "Harris",
+        "number": "637",
+        "race": "Black"
+    },
+    {
+        "age": "46",
+        "county": "Harris",
+        "date": "06/29/1993",
+        "firstname": "Markum",
+        "lastname": "Duff-Smith",
+        "number": "694",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "05/18/1993",
+        "firstname": "John",
+        "lastname": "Sawyers",
+        "number": "742",
+        "race": "White"
+    },
+    {
+        "age": "45",
+        "county": "Cameron",
+        "date": "05/12/1993",
+        "firstname": "Leonel",
+        "lastname": "Herrera",
+        "number": "702",
+        "race": "Hispanic"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "05/04/1993",
+        "firstname": "Darryl",
+        "lastname": "Stewart",
+        "number": "664",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Dallas",
+        "date": "03/25/1993",
+        "firstname": "Ramon",
+        "lastname": "Montoya",
+        "number": "737",
+        "race": "Hispanic"
+    },
+    {
+        "age": "40",
+        "county": "Harris",
+        "date": "03/23/1993",
+        "firstname": "Carlos",
+        "lastname": "Santana",
+        "number": "695",
+        "race": "Hispanic"
+    },
+    {
+        "age": "29",
+        "county": "Brazoria",
+        "date": "12/10/1992",
+        "firstname": "Kavin",
+        "lastname": "Lincecum",
+        "number": "832",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Harris",
+        "date": "11/19/1992",
+        "firstname": "Jeffery",
+        "lastname": "Griffin",
+        "number": "647",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Harris",
+        "date": "09/22/1992",
+        "firstname": "James",
+        "lastname": "Demouchette",
+        "number": "572",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "08/11/1992",
+        "firstname": "Curtis",
+        "lastname": "Johnson",
+        "number": "761",
+        "race": "Black"
+    },
+    {
+        "age": "45",
+        "county": "Brazos",
+        "date": "05/22/1992",
+        "firstname": "Robert",
+        "lastname": "Black, Jr.",
+        "number": "819",
+        "race": "White"
+    },
+    {
+        "age": "27",
+        "county": "Cameron",
+        "date": "05/20/1992",
+        "firstname": "Jesus",
+        "lastname": "Romero, Jr.",
+        "number": "801",
+        "race": "Hispanic"
+    },
+    {
+        "age": "46",
+        "county": "Brazoria",
+        "date": "05/07/1992",
+        "firstname": "Justin",
+        "lastname": "May",
+        "number": "783",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Harris",
+        "date": "04/23/1992",
+        "firstname": "Billy",
+        "lastname": "White",
+        "number": "585",
+        "race": "Black"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "03/03/1992",
+        "firstname": "Edward",
+        "lastname": "Ellis",
+        "number": "749",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Brazos",
+        "date": "02/28/1992",
+        "firstname": "David",
+        "lastname": "Clark",
+        "number": "874",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Potter",
+        "date": "02/11/1992",
+        "firstname": "Johnny",
+        "lastname": "Garrett",
+        "number": "729",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Harris",
+        "date": "01/22/1992",
+        "firstname": "Joe",
+        "lastname": "Cordova",
+        "number": "730",
+        "race": "Hispanic"
+    },
+    {
+        "age": "49",
+        "county": "Montgomery",
+        "date": "11/12/1991",
+        "firstname": "G.W.",
+        "lastname": "Green",
+        "number": "576",
+        "race": "White"
+    },
+    {
+        "age": "42",
+        "county": "Fort Bend",
+        "date": "09/19/1991",
+        "firstname": "James",
+        "lastname": "Russell",
+        "number": "579",
+        "race": "Black"
+    },
+    {
+        "age": "54",
+        "county": "Cameron",
+        "date": "06/17/1991",
+        "firstname": "Jerry",
+        "lastname": "Bird",
+        "number": "512",
+        "race": "White"
+    },
+    {
+        "age": "59",
+        "county": "Harris",
+        "date": "05/23/1991",
+        "firstname": "Ignacio",
+        "lastname": "Cuevas",
+        "number": "526",
+        "race": "Hispanic"
+    },
+    {
+        "age": "38",
+        "county": "Harris",
+        "date": "02/26/1991",
+        "firstname": "Lawrence",
+        "lastname": "Buxton",
+        "number": "743",
+        "race": "Black"
+    },
+    {
+        "age": "33",
+        "county": "Harris",
+        "date": "07/18/1990",
+        "firstname": "Mikel",
+        "lastname": "Derrick",
+        "number": "701",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Harris",
+        "date": "06/26/1990",
+        "firstname": "James",
+        "lastname": "Smith",
+        "number": "763",
+        "race": "Black"
+    },
+    {
+        "age": "30",
+        "county": "Jefferson",
+        "date": "05/17/1990",
+        "firstname": "Johnny",
+        "lastname": "Anderson",
+        "number": "732",
+        "race": "White"
+    },
+    {
+        "age": "54",
+        "county": "Harris",
+        "date": "04/21/1990",
+        "firstname": "Jerome",
+        "lastname": "Butler",
+        "number": "852",
+        "race": "Black"
+    },
+    {
+        "age": "27",
+        "county": "Nueces",
+        "date": "12/07/1989",
+        "firstname": "Carlos",
+        "lastname": "De Luna",
+        "number": "744",
+        "race": "Hispanic"
+    },
+    {
+        "age": "44",
+        "county": "Harris",
+        "date": "09/20/1989",
+        "firstname": "James",
+        "lastname": "Paster",
+        "number": "752",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Harris",
+        "date": "05/24/1989",
+        "firstname": "Stephen",
+        "lastname": "McCoy",
+        "number": "769",
+        "race": "White"
+    },
+    {
+        "age": "44",
+        "county": "Harris",
+        "date": "03/22/1989",
+        "firstname": "Leon",
+        "lastname": "King",
+        "number": "624",
+        "race": "Black"
+    },
+    {
+        "age": "39",
+        "county": "Harris",
+        "date": "12/13/1988",
+        "firstname": "Raymond",
+        "lastname": "Landry, Sr.",
+        "number": "738",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Nueces",
+        "date": "11/03/1988",
+        "firstname": "Donald",
+        "lastname": "Franklin",
+        "number": "546",
+        "race": "Black"
+    },
+    {
+        "age": "27",
+        "county": "Hardin",
+        "date": "01/07/1988",
+        "firstname": "Robert",
+        "lastname": "Streetman",
+        "number": "746",
+        "race": "White"
+    },
+    {
+        "age": "34",
+        "county": "Montgomery",
+        "date": "09/10/1987",
+        "firstname": "Joseph",
+        "lastname": "Starvaggi",
+        "number": "586",
+        "race": "White"
+    },
+    {
+        "age": "32",
+        "county": "Bexar",
+        "date": "07/08/1987",
+        "firstname": "John",
+        "lastname": "Thompson",
+        "number": "610",
+        "race": "White"
+    },
+    {
+        "age": "38",
+        "county": "Jefferson",
+        "date": "06/24/1987",
+        "firstname": "Elliot",
+        "lastname": "Johnson",
+        "number": "739",
+        "race": "Black"
+    },
+    {
+        "age": "27",
+        "county": "Harris",
+        "date": "05/28/1987",
+        "firstname": "Anthony",
+        "lastname": "Williams",
+        "number": "619",
+        "race": "Black"
+    },
+    {
+        "age": "27",
+        "county": "Fort Bend",
+        "date": "03/04/1987",
+        "firstname": "Eliseo",
+        "lastname": "Moreno",
+        "number": "759",
+        "race": "Hispanic"
+    },
+    {
+        "age": "44",
+        "county": "El Paso",
+        "date": "01/30/1987",
+        "firstname": "Ramon",
+        "lastname": "Hernandez",
+        "number": "667",
+        "race": "Hispanic"
+    },
+    {
+        "age": "25",
+        "county": "Nueces",
+        "date": "12/18/1986",
+        "firstname": "Richard",
+        "lastname": "Andrade",
+        "number": "774",
+        "race": "Hispanic"
+    },
+    {
+        "age": "30",
+        "county": "Dallas",
+        "date": "12/04/1986",
+        "firstname": "Michael",
+        "lastname": "Evans",
+        "number": "608",
+        "race": "Black"
+    },
+    {
+        "age": "37",
+        "county": "Galveston",
+        "date": "08/26/1986",
+        "firstname": "Chester",
+        "lastname": "Wicker",
+        "number": "678",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Dallas",
+        "date": "08/22/1986",
+        "firstname": "Larry",
+        "lastname": "Smith",
+        "number": "643",
+        "race": "Black"
+    },
+    {
+        "age": "36",
+        "county": "Tom Green",
+        "date": "08/20/1986",
+        "firstname": "Randy",
+        "lastname": "Woolls",
+        "number": "646",
+        "race": "White"
+    },
+    {
+        "age": "37",
+        "county": "Harris",
+        "date": "06/19/1986",
+        "firstname": "Kenneth",
+        "lastname": "Brock",
+        "number": "522",
+        "race": "White"
+    },
+    {
+        "age": "50",
+        "county": "Harris",
+        "date": "06/09/1986",
+        "firstname": "Rudy",
+        "lastname": "Esquivel",
+        "number": "606",
+        "race": "Hispanic"
+    },
+    {
+        "age": "24",
+        "county": "Nueces",
+        "date": "05/15/1986",
+        "firstname": "Jay",
+        "lastname": "Pinkerton",
+        "number": "686",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Harris",
+        "date": "04/16/1986",
+        "firstname": "Jeffery",
+        "lastname": "Barney",
+        "number": "714",
+        "race": "White"
+    },
+    {
+        "age": "30",
+        "county": "Harris",
+        "date": "03/12/1986",
+        "firstname": "Charles",
+        "lastname": "Bass",
+        "number": "662",
+        "race": "White"
+    },
+    {
+        "age": "28",
+        "county": "Potter",
+        "date": "09/11/1985",
+        "firstname": "Charles",
+        "lastname": "Rumbaugh",
+        "number": "555",
+        "race": "White"
+    },
+    {
+        "age": "43",
+        "county": "Tarrant",
+        "date": "07/09/1985",
+        "firstname": "Henry",
+        "lastname": "Porter",
+        "number": "551",
+        "race": "Hispanic"
+    },
+    {
+        "age": "34",
+        "county": "Tarrant",
+        "date": "06/25/1985",
+        "firstname": "Charles",
+        "lastname": "Milton",
+        "number": "628",
+        "race": "Black"
+    },
+    {
+        "age": "24",
+        "county": "Bexar",
+        "date": "05/15/1985",
+        "firstname": "Jesse",
+        "lastname": "De La Rosa",
+        "number": "713",
+        "race": "Hispanic"
+    },
+    {
+        "age": "34",
+        "county": "Jefferson",
+        "date": "03/13/1985",
+        "firstname": "Stephen",
+        "lastname": "Morin",
+        "number": "712",
+        "race": "White"
+    },
+    {
+        "age": "49",
+        "county": "Lubbock",
+        "date": "01/16/1985",
+        "firstname": "Doyle",
+        "lastname": "Skillern",
+        "number": "518",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Bell",
+        "date": "10/30/1984",
+        "firstname": "Thomas",
+        "lastname": "Barefoot",
+        "number": "621",
+        "race": "White"
+    },
+    {
+        "age": "39",
+        "county": "Harris",
+        "date": "03/31/1984",
+        "firstname": "Ronald",
+        "lastname": "O'Bryan",
+        "number": "529",
+        "race": "White"
+    },
+    {
+        "age": "29",
+        "county": "Jefferson",
+        "date": "03/14/1984",
+        "firstname": "James",
+        "lastname": "Autry",
+        "number": "670",
+        "race": "White"
+    },
+    {
+        "age": "40",
+        "county": "Tarrant",
+        "date": "12/07/1982",
+        "firstname": "Charlie",
+        "lastname": "Brooks, Jr.",
+        "number": "592",
+        "race": "Black"
+    }
+]
